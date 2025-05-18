@@ -1,0 +1,1000 @@
+2025-05-18T21:14:47.435397   INFO   Processed transaction for Wine - White Pinot Grigio. Applied discounts: 7.0, 5.0, 5.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 690.7307999999999
+2025-05-18T21:14:47.437223   INFO   Processed transaction for Pepper - Red Thai. Applied discounts: 17.0%. Final discount: 17.0%. Final price: 96.197
+2025-05-18T21:14:47.437536   INFO   Processed transaction for Wine - Chardonnay Mondavi. Applied discounts: 4.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1261.771
+2025-05-18T21:14:47.437705   INFO   Processed transaction for External Supplier. Applied discounts: 16.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 15.5%. Final price: 117.3536
+2025-05-18T21:14:47.437833   INFO   Processed transaction for Beans - Black Bean Preserved. Applied discounts: 29.0, 7.0, 5.0%. Final discount: 18.0%. Final price: 1554.761
+2025-05-18T21:14:47.437955   INFO   Processed transaction for Beef - Inside Round. Applied discounts: 9.0, 5.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 2072.5794
+2025-05-18T21:14:47.438068   INFO   Processed transaction for Bread - Calabrese Baguette. Applied discounts: 4.0, 5.0%. Final discount: 4.5%. Final price: 106.20554999999999
+2025-05-18T21:14:47.438187   INFO   Processed transaction for Zucchini - Mini Green. Applied discounts: 12.0, 10.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 1959.1125
+2025-05-18T21:14:47.438324   INFO   Processed transaction for Eggs - Extra Large. Applied discounts: 13.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 16.5%. Final price: 641.948
+2025-05-18T21:14:47.438454   INFO   Processed transaction for Pork - Liver. Applied discounts: 21.0, 10.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 2745.58245
+2025-05-18T21:14:47.438545   INFO   Processed transaction for Sesame Seed. Applied discounts: 26.0%. Final discount: 26.0%. Final price: 185.56239999999997
+2025-05-18T21:14:47.438653   INFO   Processed transaction for Tuna - Yellowfin. Applied discounts: 21.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 1435.239
+2025-05-18T21:14:47.438908   INFO   Processed transaction for Wine - Magnotta - Belpaese. Applied discounts: 11.0, 5.0, 5.0, 5.0%. Final discount: 8.0%. Final price: 839.2608
+2025-05-18T21:14:47.439252   INFO   Processed transaction for Bar Bran Honey Nut. Applied discounts: 6.0, 10.0, 5.0%. Final discount: 8.0%. Final price: 182.298
+2025-05-18T21:14:47.439568   INFO   Processed transaction for Cake - French Pear Tart. Applied discounts: 12.0, 7.0, 5.0%. Final discount: 9.5%. Final price: 2341.7418
+2025-05-18T21:14:47.439709   INFO   Processed transaction for Carbonated Water - Wildberry. Applied discounts: 5.0%. Final discount: 5.0%. Final price: 36.689
+2025-05-18T21:14:47.439822   INFO   Processed transaction for Pork - Ham Virginia. Applied discounts: 18.0, 7.0, 5.0%. Final discount: 12.5%. Final price: 2551.185
+2025-05-18T21:14:47.439939   INFO   Processed transaction for Wine - Prosecco Valdobienne. Applied discounts: 28.0, 5.0, 10.0, 5.0, 5.0%. Final discount: 19.0%. Final price: 2686.4865
+2025-05-18T21:14:47.440068   INFO   Processed transaction for Lettuce - Boston Bib - Organic. Applied discounts: 9.0, 5.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 538.0794000000001
+2025-05-18T21:14:47.440190   INFO   Processed transaction for Wine - Marlbourough Sauv Blanc. Applied discounts: 25.0, 5.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 795.022
+2025-05-18T21:14:47.440306   INFO   Processed transaction for Longos - Chicken Cordon Bleu. Applied discounts: 15.0, 10.0, 5.0%. Final discount: 12.5%. Final price: 2702.56
+2025-05-18T21:14:47.440412   INFO   Processed transaction for Beef Striploin Aaa. Applied discounts: 12.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 673.37595
+2025-05-18T21:14:47.440516   INFO   Processed transaction for Sauce - Oyster. Applied discounts: 14.0, 5.0, 5.0%. Final discount: 9.5%. Final price: 124.99860000000001
+2025-05-18T21:14:47.440625   INFO   Processed transaction for Barley - Pearl. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 270.693
+2025-05-18T21:14:47.440775   INFO   Processed transaction for Cheese Cloth No 60. Applied discounts: 19.0, 10.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 19.5%. Final price: 636.4008
+2025-05-18T21:14:47.440910   INFO   Processed transaction for Cut Wakame - Hanawakaba. Applied discounts: 7.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 2786.5776
+2025-05-18T21:14:47.441018   INFO   Processed transaction for Kolrabi. Applied discounts: 22.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 18.5%. Final price: 332.3733
+2025-05-18T21:14:47.441126   INFO   Processed transaction for Coffee - Espresso. Applied discounts: 2.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 661.1988
+2025-05-18T21:14:47.441227   INFO   Processed transaction for Beef - Kindney Whole. Applied discounts: 29.0, 7.0, 5.0, 5.0%. Final discount: 18.0%. Final price: 85.0668
+2025-05-18T21:14:47.441318   INFO   Processed transaction for Honey - Comb. Applied discounts: 7.0, 5.0%. Final discount: 6.0%. Final price: 275.0628
+2025-05-18T21:14:47.441429   INFO   Processed transaction for Soup Campbells Turkey Veg.. Applied discounts: 25.0%. Final discount: 25.0%. Final price: 1.395
+2025-05-18T21:14:47.441649   INFO   Processed transaction for Syrup - Monin - Blue Curacao. Applied discounts: 26.0, 5.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 477.97425
+2025-05-18T21:14:47.441787   INFO   Processed transaction for Coffee Beans - Chocolate. Applied discounts: 6.0, 10.0, 5.0%. Final discount: 8.0%. Final price: 404.754
+2025-05-18T21:14:47.441900   INFO   Processed transaction for Wine - Vidal Icewine Magnotta. Applied discounts: 14.0, 5.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 17.0%. Final price: 3109.4207
+2025-05-18T21:14:47.442015   INFO   Processed transaction for Island Oasis - Peach Daiquiri. Applied discounts: 10.0, 10.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 1845.072
+2025-05-18T21:14:47.442099   INFO   Processed transaction for Lychee. Applied discounts: 3.0%. Final discount: 3.0%. Final price: 62.39039999999999
+2025-05-18T21:14:47.442209   INFO   Processed transaction for Contreau. Applied discounts: 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 2179.5477
+2025-05-18T21:14:47.442311   INFO   Processed transaction for Cheese - Taleggio D.o.p.. Applied discounts: 11.0, 10.0, 5.0%. Final discount: 10.5%. Final price: 183.6361
+2025-05-18T21:14:47.442404   INFO   Processed transaction for Persimmons. Applied discounts: 29.0, 7.0, 5.0%. Final discount: 18.0%. Final price: 927.6988000000001
+2025-05-18T21:14:47.442502   INFO   Processed transaction for Towels - Paper / Kraft. Applied discounts: 27.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 101.37119999999999
+2025-05-18T21:14:47.442614   INFO   Processed transaction for Pastry - Cheese Baked Scones. Applied discounts: 18.0, 10.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 16.5%. Final price: 2131.6548000000003
+2025-05-18T21:14:47.442716   INFO   Processed transaction for Honey - Liquid. Applied discounts: 6.0, 10.0, 5.0%. Final discount: 8.0%. Final price: 1530.2912
+2025-05-18T21:14:47.442817   INFO   Processed transaction for Veal - Bones. Applied discounts: 9.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.0%. Final price: 595.7952
+2025-05-18T21:14:47.443001   INFO   Processed transaction for Beets. Applied discounts: 23.0, 10.0, 5.0%. Final discount: 16.5%. Final price: 1449.0256
+2025-05-18T21:14:47.443223   INFO   Processed transaction for Wine - Saint Emilion Calvet. Applied discounts: 19.0, 5.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 138.86399999999998
+2025-05-18T21:14:47.443337   INFO   Processed transaction for Coffee - Ristretto Coffee Capsule. Applied discounts: 20.0, 7.0, 5.0, 5.0%. Final discount: 13.5%. Final price: 2428.92
+2025-05-18T21:14:47.443441   INFO   Processed transaction for Beef - Tenderlion Center Cut. Applied discounts: 12.0, 5.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 1569.9936000000002
+2025-05-18T21:14:47.443549   INFO   Processed transaction for Pails With Lids. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 743.66
+2025-05-18T21:14:47.443642   INFO   Processed transaction for Wine - Cousino Macul Antiguas. Applied discounts: 26.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 66.60289999999999
+2025-05-18T21:14:47.443943   INFO   Processed transaction for Puree - Mango. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1575.7174999999997
+2025-05-18T21:14:47.444165   INFO   Processed transaction for Soup - Campbells Chili. Applied discounts: 1.0%. Final discount: 1.0%. Final price: 496.6434
+2025-05-18T21:14:47.444291   INFO   Processed transaction for Table Cloth 91x91 Colour. Applied discounts: 21.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 115.3098
+2025-05-18T21:14:47.444392   INFO   Processed transaction for Apron. Applied discounts: 14.0, 5.0, 5.0%. Final discount: 9.5%. Final price: 757.7022
+2025-05-18T21:14:47.444499   INFO   Processed transaction for Chocolate - Mi - Amere Semi. Applied discounts: 13.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 11.5%. Final price: 1207.3347
+2025-05-18T21:14:47.444597   INFO   Processed transaction for Tomatoes - Plum Canned. Applied discounts: 4.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 641.55
+2025-05-18T21:14:47.444792   INFO   Processed transaction for Oysters - Smoked. Applied discounts: 6.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 877.5375
+2025-05-18T21:14:47.444976   INFO   Processed transaction for Pork - Chop Frenched. Applied discounts: 12.0%. Final discount: 12.0%. Final price: 271.9376
+2025-05-18T21:14:47.445128   INFO   Processed transaction for Pastry - Baked Cinnamon Stick. Applied discounts: 24.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 619.0128
+2025-05-18T21:14:47.445230   INFO   Processed transaction for Bread Foccacia Whole. Applied discounts: 15.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 179.01
+2025-05-18T21:14:47.445326   INFO   Processed transaction for Tuna - Loin. Applied discounts: 21.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 15.5%. Final price: 153.84915
+2025-05-18T21:14:47.445425   INFO   Processed transaction for Corn Syrup. Applied discounts: 5.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 921.67
+2025-05-18T21:14:47.445741   INFO   Processed transaction for Wine - Bouchard La Vignee Pinot. Applied discounts: 29.0, 5.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 841.288
+2025-05-18T21:14:47.445940   INFO   Processed transaction for Lamb - Pieces Diced. Applied discounts: 7.0%. Final discount: 7.0%. Final price: 397.15649999999994
+2025-05-18T21:14:47.446075   INFO   Processed transaction for Cocoa Butter. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 375.04859999999996
+2025-05-18T21:14:47.446154   INFO   Processed transaction for Juice - Apple 284ml. Applied discounts: 18.0%. Final discount: 18.0%. Final price: 40.3932
+2025-05-18T21:14:47.446385   INFO   Processed transaction for Tomato - Plum With Basil. Applied discounts: 8.0%. Final discount: 8.0%. Final price: 196.37400000000002
+2025-05-18T21:14:47.446482   INFO   Processed transaction for Wine - Magnotta White. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 519.004
+2025-05-18T21:14:47.446571   INFO   Processed transaction for Veal - Knuckle. Applied discounts: 21.0, 7.0, 5.0%. Final discount: 14.0%. Final price: 1605.7060000000001
+2025-05-18T21:14:47.446867   INFO   Processed transaction for Sugar - Brown. Applied discounts: 14.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 14.5%. Final price: 2431.85085
+2025-05-18T21:14:47.446984   INFO   Processed transaction for Mix - Cocktail Ice Cream. Applied discounts: 4.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 1311.32625
+2025-05-18T21:14:47.447087   INFO   Processed transaction for Bread Base - Gold Formel. Applied discounts: 24.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 413.7882
+2025-05-18T21:14:47.447181   INFO   Processed transaction for Salmon - Whole 4 - 6 Pounds. Applied discounts: 15.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 1522.962
+2025-05-18T21:14:47.447284   INFO   Processed transaction for Lettuce - Radicchio. Applied discounts: 7.0, 5.0%. Final discount: 6.0%. Final price: 2570.5991999999997
+2025-05-18T21:14:47.447417   INFO   Processed transaction for Wood Chips - Regular. Applied discounts: 14.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 17.0%. Final price: 2704.1815
+2025-05-18T21:14:47.447898   INFO   Processed transaction for Pails With Lids. Applied discounts: 2.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 83.695
+2025-05-18T21:14:47.448007   INFO   Processed transaction for Strawberries. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 282.872
+2025-05-18T21:14:47.448159   INFO   Processed transaction for Bread - Pita. Applied discounts: 21.0%. Final discount: 21.0%. Final price: 206.31640000000002
+2025-05-18T21:14:47.448277   INFO   Processed transaction for Hand Towel. Applied discounts: 11.0, 7.0, 5.0%. Final discount: 9.0%. Final price: 2401.1987999999997
+2025-05-18T21:14:47.448381   INFO   Processed transaction for Ice Cream - Chocolate. Applied discounts: 12.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 939.6797999999999
+2025-05-18T21:14:47.448484   INFO   Processed transaction for Lid - 16 Oz And 32 Oz. Applied discounts: 29.0, 7.0, 5.0%. Final discount: 18.0%. Final price: 866.986
+2025-05-18T21:14:47.448569   INFO   Processed transaction for Mayonnaise. Applied discounts: 25.0, 7.0, 5.0%. Final discount: 16.0%. Final price: 1013.7456
+2025-05-18T21:14:47.448653   INFO   Processed transaction for Tarts Assorted. Applied discounts: 10.0, 5.0%. Final discount: 7.5%. Final price: 479.04825
+2025-05-18T21:14:47.448811   INFO   Processed transaction for Butter - Salted. Applied discounts: 21.0, 7.0, 5.0%. Final discount: 14.0%. Final price: 1265.1632
+2025-05-18T21:14:47.449002   INFO   Processed transaction for Amaretto. Applied discounts: 29.0, 7.0, 5.0%. Final discount: 18.0%. Final price: 73.44739999999999
+2025-05-18T21:14:47.449100   INFO   Processed transaction for Bread - White Mini Epi. Applied discounts: 12.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 323.0255
+2025-05-18T21:14:47.449198   INFO   Processed transaction for Lamb - Bones. Applied discounts: 29.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 24.5%. Final price: 1341.7256
+2025-05-18T21:14:47.449288   INFO   Processed transaction for Bagelers - Cinn / Brown Sugar. Applied discounts: 2.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2377.5984000000003
+2025-05-18T21:14:47.449387   INFO   Processed transaction for Soup - Campbells Beef Barley. Applied discounts: 6.0, 10.0, 5.0, 5.0%. Final discount: 8.0%. Final price: 3230.1292000000003
+2025-05-18T21:14:47.449479   INFO   Processed transaction for Pasta - Fettuccine Egg Fresh. Applied discounts: 21.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 871.6878
+2025-05-18T21:14:47.449566   INFO   Processed transaction for Nut - Almond Blanched Whole. Applied discounts: 19.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 426.41280000000006
+2025-05-18T21:14:47.449707   INFO   Processed transaction for Wine - White Schroder And Schyl. Applied discounts: 24.0, 5.0, 7.0, 5.0%. Final discount: 15.5%. Final price: 1819.8849500000001
+2025-05-18T21:14:47.449826   INFO   Processed transaction for Soup - Knorr Chicken Gumbo. Applied discounts: 21.0%. Final discount: 21.0%. Final price: 561.1212
+2025-05-18T21:14:47.449968   INFO   Processed transaction for Wine - Red Colio Cabernet. Applied discounts: 29.0, 5.0, 7.0, 5.0, 5.0%. Final discount: 18.0%. Final price: 1731.4136
+2025-05-18T21:14:47.450062   INFO   Processed transaction for Thyme - Lemon Fresh. Applied discounts: 3.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 1162.686
+2025-05-18T21:14:47.450164   INFO   Processed transaction for Honey - Lavender. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 11.2005
+2025-05-18T21:14:47.450267   INFO   Processed transaction for Cake - Bande Of Fruit. Applied discounts: 25.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 20.0%. Final price: 386.408
+2025-05-18T21:14:47.450359   INFO   Processed transaction for Veal - Insides Provini. Applied discounts: 12.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 13.5%. Final price: 388.30715000000004
+2025-05-18T21:14:47.450490   INFO   Processed transaction for Cheese - Taleggio D.o.p.. Applied discounts: 25.0, 10.0, 7.0, 5.0, 5.0%. Final discount: 17.5%. Final price: 1607.5125
+2025-05-18T21:14:47.450573   INFO   Processed transaction for Table Cloth 54x54 Colour. Applied discounts: 17.0, 10.0, 5.0%. Final discount: 13.5%. Final price: 2417.37225
+2025-05-18T21:14:47.450744   INFO   Processed transaction for Nut - Walnut Chopped. Applied discounts: 15.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 15.0%. Final price: 2145.57
+2025-05-18T21:14:47.450980   INFO   Processed transaction for Turkey - Whole Fresh. Applied discounts: 8.0, 10.0, 5.0%. Final discount: 9.0%. Final price: 2141.5121
+2025-05-18T21:14:47.451068   INFO   Processed transaction for Ocean Spray - Ruby Red. Applied discounts: 10.0%. Final discount: 10.0%. Final price: 669.915
+2025-05-18T21:14:47.451164   INFO   Processed transaction for Nantucket - Orange Mango Cktl. Applied discounts: 18.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 855.5472
+2025-05-18T21:14:47.451274   INFO   Processed transaction for Flower - Carnations. Applied discounts: 21.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 1198.5642
+2025-05-18T21:14:47.451334   INFO   Processed transaction for Tequila - Sauza Silver. Applied discounts: 29.0%. Final discount: 29.0%. Final price: 51.6951
+2025-05-18T21:14:47.451504   INFO   Processed transaction for Soup - Base Broth Beef. Applied discounts: 26.0, 7.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 652.4189
+2025-05-18T21:14:47.451586   INFO   Processed transaction for Mikes Hard Lemonade. Applied discounts: 10.0%. Final discount: 10.0%. Final price: 280.44
+2025-05-18T21:14:47.451675   INFO   Processed transaction for Pasta - Lasagna Dry. Applied discounts: 29.0, 7.0, 5.0, 5.0%. Final discount: 18.0%. Final price: 81.0816
+2025-05-18T21:14:47.451777   INFO   Processed transaction for Ginsing - Fresh. Applied discounts: 17.0, 5.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 744.3693000000001
+2025-05-18T21:14:47.451860   INFO   Processed transaction for Capon - Breast Wing On. Applied discounts: 6.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.0%. Final price: 1423.8288
+2025-05-18T21:14:47.451937   INFO   Processed transaction for Chocolate - Semi Sweet Calets. Applied discounts: 7.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 2710.962
+2025-05-18T21:14:47.452020   INFO   Processed transaction for Tray - 16in Rnd Blk. Applied discounts: 3.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 84.1584
+2025-05-18T21:14:47.452106   INFO   Processed transaction for Coffee - Frthy Coffee Crisp. Applied discounts: 7.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 309.4
+2025-05-18T21:14:47.452189   INFO   Processed transaction for Schnappes Peppermint - Walker. Applied discounts: 14.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 12.0%. Final price: 103.4352
+2025-05-18T21:14:47.452274   INFO   Processed transaction for Wine - White Lindemans Bin 95. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1557.8955
+2025-05-18T21:14:47.452365   INFO   Processed transaction for Coffee Cup 12oz 5342cd. Applied discounts: 23.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 16.5%. Final price: 1086.335
+2025-05-18T21:14:47.452443   INFO   Processed transaction for Paper - Brown Paper Mini Cups. Applied discounts: 15.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 30.402
+2025-05-18T21:14:47.452526   INFO   Processed transaction for Coffee - Frthy Coffee Crisp. Applied discounts: 13.0, 10.0, 5.0%. Final discount: 11.5%. Final price: 2354.32125
+2025-05-18T21:14:47.452613   INFO   Processed transaction for Tea - Orange Pekoe. Applied discounts: 13.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 64.9376
+2025-05-18T21:14:47.452688   INFO   Processed transaction for Muffin Mix - Raisin Bran. Applied discounts: 3.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1676.2438
+2025-05-18T21:14:47.452775   INFO   Processed transaction for Jack Daniels. Applied discounts: 8.0, 50.0, 10.0, 5.0%. Final discount: 30.0%. Final price: 2501.6179999999995
+2025-05-18T21:14:47.452889   INFO   Processed transaction for Beef - Ground Medium. Applied discounts: 17.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 16.0%. Final price: 2047.2984000000001
+2025-05-18T21:14:47.452965   INFO   Processed transaction for Onion Powder. Applied discounts: 22.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 1724.94
+2025-05-18T21:14:47.453044   INFO   Processed transaction for Tomatoes - Grape. Applied discounts: 4.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1898.7527000000002
+2025-05-18T21:14:47.453138   INFO   Processed transaction for Wine - Chenin Blanc K.w.v.. Applied discounts: 14.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 14.5%. Final price: 1735.6927500000002
+2025-05-18T21:14:47.453217   INFO   Processed transaction for Quail - Eggs Fresh. Applied discounts: 6.0, 7.0, 5.0%. Final discount: 6.5%. Final price: 2701.20565
+2025-05-18T21:14:47.453304   INFO   Processed transaction for Bread - Pumpernickel. Applied discounts: 4.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 1886.1194
+2025-05-18T21:14:47.453406   INFO   Processed transaction for Apples - Spartan. Applied discounts: 9.0, 5.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 712.845
+2025-05-18T21:14:47.453515   INFO   Processed transaction for Snails - Large Canned. Applied discounts: 25.0, 5.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 1075.42
+2025-05-18T21:14:47.453590   INFO   Processed transaction for Eggplant - Baby. Applied discounts: 25.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 616.794
+2025-05-18T21:14:47.453671   INFO   Processed transaction for Wine - Rioja Campo Viejo. Applied discounts: 3.0, 5.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 2177.4375
+2025-05-18T21:14:47.453750   INFO   Processed transaction for Wine - Rosso Toscano Igt. Applied discounts: 25.0, 5.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 160.361
+2025-05-18T21:14:47.453834   INFO   Processed transaction for Wine - Blue Nun Qualitatswein. Applied discounts: 28.0, 5.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 1334.70575
+2025-05-18T21:14:47.453908   INFO   Processed transaction for Ecolab Crystal Fusion. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 430.16
+2025-05-18T21:14:47.453983   INFO   Processed transaction for Ecolab Crystal Fusion. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 788.9085
+2025-05-18T21:14:47.454067   INFO   Processed transaction for Sauce - White Mix. Applied discounts: 26.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 20.5%. Final price: 2007.16035
+2025-05-18T21:14:47.454307   INFO   Processed transaction for Lobak. Applied discounts: 3.0, 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 1262.9025
+2025-05-18T21:14:47.454594   INFO   Processed transaction for Pasta - Shells Medium Dry. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 531.93675
+2025-05-18T21:14:47.454746   INFO   Processed transaction for Tomatoes Tear Drop Yellow. Applied discounts: 6.0, 7.0, 5.0, 5.0%. Final discount: 6.5%. Final price: 552.68785
+2025-05-18T21:14:47.454834   INFO   Processed transaction for Melon - Honey Dew. Applied discounts: 8.0, 7.0, 5.0%. Final discount: 7.5%. Final price: 1855.698
+2025-05-18T21:14:47.454918   INFO   Processed transaction for Dried Cranberries. Applied discounts: 28.0, 50.0, 10.0, 5.0, 5.0%. Final discount: 39.0%. Final price: 1622.8928
+2025-05-18T21:14:47.454998   INFO   Processed transaction for Bagels Poppyseed. Applied discounts: 16.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 13.0%. Final price: 562.5768
+2025-05-18T21:14:47.455182   INFO   Processed transaction for Mushroom - Crimini. Applied discounts: 14.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 14.5%. Final price: 2793.285
+2025-05-18T21:14:47.455399   INFO   Processed transaction for Spice - Peppercorn Melange. Applied discounts: 11.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 10.5%. Final price: 1466.8871
+2025-05-18T21:14:47.455495   INFO   Processed transaction for Fruit Salad Deluxe. Applied discounts: 27.0, 5.0%. Final discount: 16.0%. Final price: 498.12
+2025-05-18T21:14:47.455813   INFO   Processed transaction for Mountain Dew. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 710.6528
+2025-05-18T21:14:47.455914   INFO   Processed transaction for Pur Value. Applied discounts: 6.0, 5.0, 5.0%. Final discount: 5.5%. Final price: 34.7382
+2025-05-18T21:14:47.455998   INFO   Processed transaction for Remy Red Berry Infusion. Applied discounts: 22.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 224.4984
+2025-05-18T21:14:47.456078   INFO   Processed transaction for Chestnuts - Wholecanned. Applied discounts: 12.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 307.9044
+2025-05-18T21:14:47.456361   INFO   Processed transaction for Pork - Sausage Medium. Applied discounts: 13.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 1275.6198
+2025-05-18T21:14:47.456449   INFO   Processed transaction for Apple - Royal Gala. Applied discounts: 14.0, 7.0, 5.0%. Final discount: 10.5%. Final price: 2103.25
+2025-05-18T21:14:47.456528   INFO   Processed transaction for Oil - Cooking Spray. Applied discounts: 24.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 937.664
+2025-05-18T21:14:47.456602   INFO   Processed transaction for Tuna - Bluefin. Applied discounts: 24.0%. Final discount: 24.0%. Final price: 36.366
+2025-05-18T21:14:47.456662   INFO   Processed transaction for Pepper - Green Thai. Applied discounts: %. Final discount: 0.0%. Final price: 64.88
+2025-05-18T21:14:47.456733   INFO   Processed transaction for Mustard - Individual Pkg. Applied discounts: 7.0, 7.0, 5.0%. Final discount: 7.0%. Final price: 2106.6360000000004
+2025-05-18T21:14:47.456811   INFO   Processed transaction for Pepper - Julienne Frozen. Applied discounts: 22.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 1139.628
+2025-05-18T21:14:47.456881   INFO   Processed transaction for Hummus - Spread. Applied discounts: 22.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 1934.6544
+2025-05-18T21:14:47.456968   INFO   Processed transaction for Absolut Citron. Applied discounts: 18.0, 5.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 497.1753
+2025-05-18T21:14:47.457041   INFO   Processed transaction for Salad Dressing. Applied discounts: 16.0, 5.0, 5.0%. Final discount: 10.5%. Final price: 807.0036
+2025-05-18T21:14:47.457116   INFO   Processed transaction for Yogurt - Assorted Pack. Applied discounts: 15.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 15.0%. Final price: 605.9735000000001
+2025-05-18T21:14:47.457193   INFO   Processed transaction for Soap - Hand Soap. Applied discounts: 25.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 424.779
+2025-05-18T21:14:47.457333   INFO   Processed transaction for Barley - Pearl. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 235.144
+2025-05-18T21:14:47.457495   INFO   Processed transaction for Appetizer - Sausage Rolls. Applied discounts: 25.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 510.88399999999996
+2025-05-18T21:14:47.457594   INFO   Processed transaction for Lemons. Applied discounts: 15.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 17.5%. Final price: 3470.0654999999997
+2025-05-18T21:14:47.457675   INFO   Processed transaction for Cake - Miini Cheesecake Cherry. Applied discounts: 27.0, 10.0, 7.0, 5.0%. Final discount: 18.5%. Final price: 1242.2556
+2025-05-18T21:14:47.457820   INFO   Processed transaction for Table Cloth 72x144 White. Applied discounts: 8.0, 10.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 3545.5693
+2025-05-18T21:14:47.459072   INFO   Processed transaction for Sword Pick Asst. Applied discounts: 1.0, 5.0%. Final discount: 3.0%. Final price: 198.1807
+2025-05-18T21:14:47.459272   INFO   Processed transaction for Cake - Sheet Strawberry. Applied discounts: 19.0%. Final discount: 19.0%. Final price: 234.1548
+2025-05-18T21:14:47.459406   INFO   Processed transaction for Tuna - Sushi Grade. Applied discounts: 10.0, 7.0, 5.0%. Final discount: 8.5%. Final price: 520.2140999999999
+2025-05-18T21:14:47.459506   INFO   Processed transaction for Wine - Vovray Sec Domaine Huet. Applied discounts: 5.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 157.7
+2025-05-18T21:14:47.459664   INFO   Processed transaction for Watercress. Applied discounts: 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 2998.1112
+2025-05-18T21:14:47.459815   INFO   Processed transaction for V8 Splash Strawberry Banana. Applied discounts: 21.0, 7.0, 5.0%. Final discount: 14.0%. Final price: 473.9202
+2025-05-18T21:14:47.459910   INFO   Processed transaction for Syrup - Monin - Blue Curacao. Applied discounts: 21.0, 7.0, 5.0%. Final discount: 14.0%. Final price: 1040.944
+2025-05-18T21:14:47.459992   INFO   Processed transaction for Sprouts - China Rose. Applied discounts: 28.0, 7.0, 5.0%. Final discount: 17.5%. Final price: 483.69750000000005
+2025-05-18T21:14:47.460070   INFO   Processed transaction for Pears - Bosc. Applied discounts: 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 613.1999999999999
+2025-05-18T21:14:47.460431   INFO   Processed transaction for Beef - Ox Tongue. Applied discounts: 17.0, 50.0%. Final discount: 33.5%. Final price: 304.27740000000006
+2025-05-18T21:14:47.460555   INFO   Processed transaction for Buttons. Applied discounts: 24.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 345.71925
+2025-05-18T21:14:47.460772   INFO   Processed transaction for The Pop Shoppe - Root Beer. Applied discounts: 5.0, 50.0, 10.0, 5.0, 5.0%. Final discount: 30.0%. Final price: 2376.885
+2025-05-18T21:14:47.460885   INFO   Processed transaction for Pork - Ground. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 161.1175
+2025-05-18T21:14:47.460964   INFO   Processed transaction for Wasabi Powder. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 23.3985
+2025-05-18T21:14:47.461057   INFO   Processed transaction for Milk 2% 500 Ml. Applied discounts: 2.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 2859.9438
+2025-05-18T21:14:47.461134   INFO   Processed transaction for Flavouring - Orange. Applied discounts: 17.0, 50.0, 7.0, 5.0, 5.0%. Final discount: 33.5%. Final price: 1708.1057
+2025-05-18T21:14:47.461212   INFO   Processed transaction for Juice - Orange Concentrate. Applied discounts: 21.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 18.0%. Final price: 860.4177999999999
+2025-05-18T21:14:47.461288   INFO   Processed transaction for Bonito Flakes - Toku Katsuo. Applied discounts: 22.0, 7.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 988.5509999999998
+2025-05-18T21:14:47.461358   INFO   Processed transaction for Bread - Bistro White. Applied discounts: 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 901.6875
+2025-05-18T21:14:47.461431   INFO   Processed transaction for Bread - English Muffin. Applied discounts: 9.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 20.6274
+2025-05-18T21:14:47.461562   INFO   Processed transaction for Nantuket Peach Orange. Applied discounts: 9.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 737.9829
+2025-05-18T21:14:47.461777   INFO   Processed transaction for Currants. Applied discounts: 3.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 899.58
+2025-05-18T21:14:47.461893   INFO   Processed transaction for Wine - Red Gallo Merlot. Applied discounts: 14.0, 5.0, 7.0, 5.0%. Final discount: 10.5%. Final price: 2150.8997999999997
+2025-05-18T21:14:47.461975   INFO   Processed transaction for Cheese - Camembert. Applied discounts: 16.0, 10.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 13.0%. Final price: 541.749
+2025-05-18T21:14:47.462253   INFO   Processed transaction for Container - Hngd Cll Blk 7x7x3. Applied discounts: 5.0, 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 3885.1757499999994
+2025-05-18T21:14:47.462472   INFO   Processed transaction for Tomatoes - Vine Ripe Red. Applied discounts: 25.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 17.5%. Final price: 1463.1705
+2025-05-18T21:14:47.462761   INFO   Processed transaction for Durian Fruit. Applied discounts: 29.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 1021.1075
+2025-05-18T21:14:47.462851   INFO   Processed transaction for Veal - Shank Pieces. Applied discounts: 21.0, 50.0, 10.0, 5.0%. Final discount: 35.5%. Final price: 619.2
+2025-05-18T21:14:47.463019   INFO   Processed transaction for Container - Clear 32 Oz. Applied discounts: 6.0, 7.0, 5.0, 5.0%. Final discount: 6.5%. Final price: 2641.1693
+2025-05-18T21:14:47.463171   INFO   Processed transaction for Soup - Campbells - Chicken Noodle. Applied discounts: 18.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 16.5%. Final price: 1581.7822500000002
+2025-05-18T21:14:47.463263   INFO   Processed transaction for Rice - Aborio. Applied discounts: 25.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 82.61999999999999
+2025-05-18T21:14:47.463339   INFO   Processed transaction for Wine - Fume Blanc Fetzer. Applied discounts: 11.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 13.0%. Final price: 1135.0541999999998
+2025-05-18T21:14:47.463428   INFO   Processed transaction for Beef - Salted. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 77.20049999999999
+2025-05-18T21:14:47.463497   INFO   Processed transaction for Pastry - French Mini Assorted. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1256.5079999999998
+2025-05-18T21:14:47.463579   INFO   Processed transaction for Liners - Baking Cups. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 5.51
+2025-05-18T21:14:47.463653   INFO   Processed transaction for Cookie - Oatmeal. Applied discounts: 17.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 13.5%. Final price: 470.07560000000007
+2025-05-18T21:14:47.463724   INFO   Processed transaction for Pastry - Banana Tea Loaf. Applied discounts: 19.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 14.5%. Final price: 1046.5371
+2025-05-18T21:14:47.463848   INFO   Processed transaction for Broom And Brush Rack Black. Applied discounts: 22.0, 50.0, 7.0, 5.0, 5.0%. Final discount: 36.0%. Final price: 1817.3952
+2025-05-18T21:14:47.463939   INFO   Processed transaction for Fish - Bones. Applied discounts: 29.0%. Final discount: 29.0%. Final price: 691.7885
+2025-05-18T21:14:47.464017   INFO   Processed transaction for Pie Shell - 5. Applied discounts: 21.0, 5.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 1114.3482
+2025-05-18T21:14:47.464089   INFO   Processed transaction for Wine - White Colubia Cresh. Applied discounts: 12.0, 5.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 16.0%. Final price: 1919.5007999999998
+2025-05-18T21:14:47.464154   INFO   Processed transaction for Celery Root. Applied discounts: 22.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 52.752
+2025-05-18T21:14:47.464230   INFO   Processed transaction for Longos - Greek Salad. Applied discounts: 10.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 10.0%. Final price: 624.24
+2025-05-18T21:14:47.464293   INFO   Processed transaction for Puree - Raspberry. Applied discounts: 24.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 178.74880000000002
+2025-05-18T21:14:47.464354   INFO   Processed transaction for Calvados - Boulard. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 763.7912
+2025-05-18T21:14:47.464418   INFO   Processed transaction for Scampi Tail. Applied discounts: 23.0, 7.0, 5.0%. Final discount: 15.0%. Final price: 2236.0099999999998
+2025-05-18T21:14:47.464489   INFO   Processed transaction for Island Oasis - Ice Cream Mix. Applied discounts: 5.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 1127.0055
+2025-05-18T21:14:47.464564   INFO   Processed transaction for Plasticforkblack. Applied discounts: 14.0, 10.0, 5.0%. Final discount: 12.0%. Final price: 2437.1335999999997
+2025-05-18T21:14:47.464619   INFO   Processed transaction for Bread - 10 Grain Parisian. Applied discounts: 4.0%. Final discount: 4.0%. Final price: 659.0016
+2025-05-18T21:14:47.464668   INFO   Processed transaction for Kale - Red. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 742.254
+2025-05-18T21:14:47.464737   INFO   Processed transaction for Wine - Casillero Deldiablo. Applied discounts: 16.0, 5.0, 5.0, 5.0%. Final discount: 10.5%. Final price: 142.96730000000002
+2025-05-18T21:14:47.464812   INFO   Processed transaction for Maintenance Removal Charge. Applied discounts: 19.0, 10.0, 5.0%. Final discount: 14.5%. Final price: 2702.7576
+2025-05-18T21:14:47.464899   INFO   Processed transaction for Tea - Mint. Applied discounts: 7.0, 5.0%. Final discount: 6.0%. Final price: 1918.4178000000002
+2025-05-18T21:14:47.464965   INFO   Processed transaction for Cookie - Oreo 100x2. Applied discounts: 19.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 19.5%. Final price: 1872.108
+2025-05-18T21:14:47.465031   INFO   Processed transaction for Compound - Pear. Applied discounts: 26.0, 7.0, 5.0%. Final discount: 16.5%. Final price: 168.9372
+2025-05-18T21:14:47.465096   INFO   Processed transaction for The Pop Shoppe Pinapple. Applied discounts: 15.0, 10.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 372.75
+2025-05-18T21:14:47.465161   INFO   Processed transaction for Tarragon - Primerba Paste. Applied discounts: 7.0, 7.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 49.5504
+2025-05-18T21:14:47.465234   INFO   Processed transaction for Straw - Regular. Applied discounts: 5.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2041.9619999999998
+2025-05-18T21:14:47.465299   INFO   Processed transaction for Mussels - Cultivated. Applied discounts: 24.0, 5.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 1193.6484
+2025-05-18T21:14:47.465358   INFO   Processed transaction for Beef - Top Butt Aaa. Applied discounts: 16.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 13.0%. Final price: 461.622
+2025-05-18T21:14:47.465417   INFO   Processed transaction for Beer - Sleemans Honey Brown. Applied discounts: 25.0, 5.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 1496.493
+2025-05-18T21:14:47.465473   INFO   Processed transaction for Bread - Pumpernickle Rounds. Applied discounts: 27.0, 10.0, 5.0%. Final discount: 18.5%. Final price: 401.632
+2025-05-18T21:14:47.465530   INFO   Processed transaction for Cheese - Cheddar With Claret. Applied discounts: 29.0, 10.0, 7.0, 5.0%. Final discount: 19.5%. Final price: 1655.0478
+2025-05-18T21:14:47.465581   INFO   Processed transaction for Orange Roughy 6/8 Oz. Applied discounts: 19.0%. Final discount: 19.0%. Final price: 352.00980000000004
+2025-05-18T21:14:47.465640   INFO   Processed transaction for Quiche Assorted. Applied discounts: 22.0, 7.0, 5.0%. Final discount: 14.5%. Final price: 2160.6448499999997
+2025-05-18T21:14:47.465701   INFO   Processed transaction for Cherries - Fresh. Applied discounts: 12.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 691.2629999999999
+2025-05-18T21:14:47.465764   INFO   Processed transaction for Appetizer - Cheese Bites. Applied discounts: 7.0, 10.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 10.0%. Final price: 686.664
+2025-05-18T21:14:47.466041   INFO   Processed transaction for Wine - Barossa Valley Estate. Applied discounts: 1.0, 5.0, 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 2463.756
+2025-05-18T21:14:47.466120   INFO   Processed transaction for External Supplier. Applied discounts: 14.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 12.0%. Final price: 1563.5840000000003
+2025-05-18T21:14:47.466288   INFO   Processed transaction for The Pop Shoppe Pinapple. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 57.8865
+2025-05-18T21:14:47.466369   INFO   Processed transaction for Wine - Red Gallo Merlot. Applied discounts: 25.0, 5.0, 10.0, 5.0, 5.0%. Final discount: 17.5%. Final price: 2605.55625
+2025-05-18T21:14:47.466427   INFO   Processed transaction for Beef - Top Butt Aaa. Applied discounts: 14.0%. Final discount: 14.0%. Final price: 268.0878
+2025-05-18T21:14:47.466592   INFO   Processed transaction for Yoghurt Tubes. Applied discounts: 14.0%. Final discount: 14.0%. Final price: 445.308
+2025-05-18T21:14:47.466662   INFO   Processed transaction for Fudge - Chocolate Fudge. Applied discounts: 1.0, 5.0%. Final discount: 3.0%. Final price: 36.5884
+2025-05-18T21:14:47.466714   INFO   Processed transaction for Pickles - Gherkins. Applied discounts: 3.0%. Final discount: 3.0%. Final price: 545.0430000000001
+2025-05-18T21:14:47.466829   INFO   Processed transaction for Chef Hat 25cm. Applied discounts: 22.0, 7.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 1084.2255
+2025-05-18T21:14:47.467394   INFO   Processed transaction for Wheat - Soft Kernal Of Wheat. Applied discounts: 7.0%. Final discount: 7.0%. Final price: 493.9416
+2025-05-18T21:14:47.467590   INFO   Processed transaction for Soup - Campbells Chili Veg. Applied discounts: 22.0, 7.0, 5.0%. Final discount: 14.5%. Final price: 1057.4298
+2025-05-18T21:14:47.467681   INFO   Processed transaction for Bread - Granary Small Pull. Applied discounts: 27.0, 7.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 1612.5655
+2025-05-18T21:14:47.467754   INFO   Processed transaction for Bananas. Applied discounts: 20.0, 7.0, 5.0, 5.0%. Final discount: 13.5%. Final price: 1162.2832
+2025-05-18T21:14:47.467816   INFO   Processed transaction for Glaze - Apricot. Applied discounts: 15.0, 10.0, 5.0%. Final discount: 12.5%. Final price: 410.2
+2025-05-18T21:14:47.467879   INFO   Processed transaction for Wine - Taylors Reserve. Applied discounts: 12.0, 5.0, 10.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 733.36
+2025-05-18T21:14:47.468675   INFO   Processed transaction for Cheese - Havarti Salsa. Applied discounts: 21.0, 10.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 219.4465
+2025-05-18T21:14:47.468756   INFO   Processed transaction for Nori Sea Weed - Gold Label. Applied discounts: 11.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 13.0%. Final price: 2832.8940000000002
+2025-05-18T21:14:47.468880   INFO   Processed transaction for Wine La Vielle Ferme Cote Du. Applied discounts: 22.0, 5.0, 50.0, 10.0, 5.0%. Final discount: 36.0%. Final price: 1843.0976
+2025-05-18T21:14:47.468982   INFO   Processed transaction for Coffee - Frthy Coffee Crisp. Applied discounts: 16.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 15.5%. Final price: 1447.13855
+2025-05-18T21:14:47.469051   INFO   Processed transaction for Marjoram - Dried Rubbed. Applied discounts: 6.0, 5.0, 5.0%. Final discount: 5.5%. Final price: 47.8737
+2025-05-18T21:14:47.469119   INFO   Processed transaction for The Pop Shoppe Pinapple. Applied discounts: 20.0, 10.0, 5.0%. Final discount: 15.0%. Final price: 2020.1439999999998
+2025-05-18T21:14:47.469222   INFO   Processed transaction for Crawfish. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 1681.0288
+2025-05-18T21:14:47.469398   INFO   Processed transaction for Pork - Bacon Double Smoked. Applied discounts: 14.0, 5.0%. Final discount: 9.5%. Final price: 195.8058
+2025-05-18T21:14:47.469988   INFO   Processed transaction for Beer - Upper Canada Light. Applied discounts: 29.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 341.4288
+2025-05-18T21:14:47.470089   INFO   Processed transaction for Napkin - Beverge White 2 - Ply. Applied discounts: 27.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 21.0%. Final price: 1263.8736
+2025-05-18T21:14:47.470162   INFO   Processed transaction for Wine - Vineland Estate Semi - Dry. Applied discounts: 20.0, 5.0, 7.0, 5.0, 5.0%. Final discount: 13.5%. Final price: 1738.36455
+2025-05-18T21:14:47.470311   INFO   Processed transaction for Scrubbie - Scotchbrite Hand Pad. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 1115.0055
+2025-05-18T21:14:47.471264   INFO   Processed transaction for Kellogs Raisan Bran Bars. Applied discounts: 29.0, 5.0%. Final discount: 17.0%. Final price: 40.7779
+2025-05-18T21:14:47.471352   INFO   Processed transaction for Wine - Rubyport. Applied discounts: 15.0, 5.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 12.5%. Final price: 2072.9625
+2025-05-18T21:14:47.471510   INFO   Processed transaction for Pumpkin. Applied discounts: 21.0, 5.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 941.9402999999999
+2025-05-18T21:14:47.471596   INFO   Processed transaction for Brandy Cherry - Mcguinness. Applied discounts: 18.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 14.0%. Final price: 1022.282
+2025-05-18T21:14:47.471674   INFO   Processed transaction for Wine - Soave Folonari. Applied discounts: 19.0, 5.0%. Final discount: 12.0%. Final price: 109.0848
+2025-05-18T21:14:47.471777   INFO   Processed transaction for Tomatoes - Cherry. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 111.82320000000001
+2025-05-18T21:14:47.471844   INFO   Processed transaction for Mousse - Banana Chocolate. Applied discounts: 26.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 1434.0816
+2025-05-18T21:14:47.471906   INFO   Processed transaction for Cheese - Brick With Pepper. Applied discounts: 12.0, 10.0%. Final discount: 11.0%. Final price: 109.3365
+2025-05-18T21:14:47.471969   INFO   Processed transaction for Flour - Chickpea. Applied discounts: 19.0, 5.0%. Final discount: 12.0%. Final price: 40.233599999999996
+2025-05-18T21:14:47.472086   INFO   Processed transaction for Tart Shells - Savory 2. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 819.812
+2025-05-18T21:14:47.472275   INFO   Processed transaction for Clams - Bay. Applied discounts: 23.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 16.5%. Final price: 1507.2084
+2025-05-18T21:14:47.472355   INFO   Processed transaction for Honey - Comb. Applied discounts: 22.0, 7.0, 5.0%. Final discount: 14.5%. Final price: 1359.69795
+2025-05-18T21:14:47.472423   INFO   Processed transaction for Thyme - Dried. Applied discounts: 7.0, 7.0, 5.0%. Final discount: 7.0%. Final price: 1940.1195
+2025-05-18T21:14:47.472490   INFO   Processed transaction for V8 Splash Strawberry Kiwi. Applied discounts: 2.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2510.7024
+2025-05-18T21:14:47.472554   INFO   Processed transaction for Jameson Irish Whiskey. Applied discounts: 13.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 16.5%. Final price: 1433.4111
+2025-05-18T21:14:47.472618   INFO   Processed transaction for Lemonade - Pineapple Passion. Applied discounts: 23.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 359.6348
+2025-05-18T21:14:47.472679   INFO   Processed transaction for Coconut - Creamed Pure. Applied discounts: 4.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 2236.6946
+2025-05-18T21:14:47.472742   INFO   Processed transaction for Pepper - Chillies Crushed. Applied discounts: 26.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 20.5%. Final price: 1976.3541
+2025-05-18T21:14:47.472803   INFO   Processed transaction for Petit Baguette. Applied discounts: 20.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 322.1575
+2025-05-18T21:14:47.472865   INFO   Processed transaction for Juice - Apple 500 Ml. Applied discounts: 3.0, 50.0%. Final discount: 26.5%. Final price: 108.93435000000001
+2025-05-18T21:14:47.473053   INFO   Processed transaction for Onions - Spanish. Applied discounts: 26.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 1819.5390000000002
+2025-05-18T21:14:47.473123   INFO   Processed transaction for Wine - Carmenere Casillero Del. Applied discounts: 3.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 182.59949999999998
+2025-05-18T21:14:47.473196   INFO   Processed transaction for Chips Potato All Dressed - 43g. Applied discounts: 1.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 515.336
+2025-05-18T21:14:47.473247   INFO   Processed transaction for Pastrami. Applied discounts: 11.0%. Final discount: 11.0%. Final price: 136.4459
+2025-05-18T21:14:47.473310   INFO   Processed transaction for Sobe - Green Tea. Applied discounts: 1.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 246.696
+2025-05-18T21:14:47.473457   INFO   Processed transaction for Cheese - La Sauvagine. Applied discounts: 24.0, 10.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 2639.4
+2025-05-18T21:14:47.473524   INFO   Processed transaction for Jicama. Applied discounts: 10.0, 7.0, 5.0%. Final discount: 8.5%. Final price: 2161.5044999999996
+2025-05-18T21:14:47.473623   INFO   Processed transaction for Wine - Sicilia Igt Nero Avola. Applied discounts: 2.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 757.606
+2025-05-18T21:14:47.473688   INFO   Processed transaction for Ginger - Crystalized. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 642.5039999999999
+2025-05-18T21:14:47.473747   INFO   Processed transaction for Blue Curacao - Marie Brizard. Applied discounts: 22.0, 7.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 927.3244500000001
+2025-05-18T21:14:47.473831   INFO   Processed transaction for Pail - 15l White With Handle. Applied discounts: 29.0, 7.0, 5.0, 5.0%. Final discount: 18.0%. Final price: 2098.2324000000003
+2025-05-18T21:14:47.473891   INFO   Processed transaction for Pork - Kidney. Applied discounts: 4.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 2992.782
+2025-05-18T21:14:47.473963   INFO   Processed transaction for Table Cloth - 53x69 Colour. Applied discounts: 15.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 10.341000000000001
+2025-05-18T21:14:47.474028   INFO   Processed transaction for Ostrich - Prime Cut. Applied discounts: 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 458.4033999999999
+2025-05-18T21:14:47.474075   INFO   Processed transaction for Potatoes - Peeled. Applied discounts: 2.0%. Final discount: 2.0%. Final price: 323.4882
+2025-05-18T21:14:47.474129   INFO   Processed transaction for Fish - Artic Char Cold Smoked. Applied discounts: 10.0, 5.0%. Final discount: 7.5%. Final price: 125.41150000000002
+2025-05-18T21:14:47.474180   INFO   Processed transaction for Oil - Canola. Applied discounts: 16.0, 7.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 1821.7548
+2025-05-18T21:14:47.474236   INFO   Processed transaction for Bread - English Muffin. Applied discounts: 9.0, 5.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 1607.97
+2025-05-18T21:14:47.474288   INFO   Processed transaction for Table Cloth 120 Round White. Applied discounts: 12.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 16.0%. Final price: 1635.2028
+2025-05-18T21:14:47.474337   INFO   Processed transaction for Pork Ham Prager. Applied discounts: 17.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 16.0%. Final price: 356.8488
+2025-05-18T21:14:47.474469   INFO   Processed transaction for Dc - Frozen Momji. Applied discounts: 25.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 20.0%. Final price: 2197.536
+2025-05-18T21:14:47.474557   INFO   Processed transaction for Yeast Dry - Fermipan. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 407.01959999999997
+2025-05-18T21:14:47.474618   INFO   Processed transaction for Veal Inside - Provimi. Applied discounts: 1.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 48.9082
+2025-05-18T21:14:47.474676   INFO   Processed transaction for Pepper - Chillies Crushed. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 67.30749999999999
+2025-05-18T21:14:47.474743   INFO   Processed transaction for Chef Hat 20cm. Applied discounts: 29.0, 5.0%. Final discount: 17.0%. Final price: 41.748999999999995
+2025-05-18T21:14:47.474801   INFO   Processed transaction for Oil - Olive Extra Virgin. Applied discounts: 10.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 327.624
+2025-05-18T21:14:47.474851   INFO   Processed transaction for Basil - Thai. Applied discounts: 26.0, 5.0%. Final discount: 15.5%. Final price: 801.3642
+2025-05-18T21:14:47.474903   INFO   Processed transaction for Fennel - Seeds. Applied discounts: 26.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 1100.1393
+2025-05-18T21:14:47.474953   INFO   Processed transaction for Gingerale - Schweppes 355 Ml. Applied discounts: 15.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 30.024
+2025-05-18T21:14:47.475002   INFO   Processed transaction for Duck - Whole. Applied discounts: 8.0, 10.0, 5.0%. Final discount: 9.0%. Final price: 2504.9024
+2025-05-18T21:14:47.475057   INFO   Processed transaction for Truffle - Whole Black Peeled. Applied discounts: 20.0, 5.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 1230.6349999999998
+2025-05-18T21:14:47.475095   INFO   Processed transaction for Lobak. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 105.22999999999999
+2025-05-18T21:14:47.475140   INFO   Processed transaction for Pasta - Linguini Dry. Applied discounts: 24.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 654.4512000000001
+2025-05-18T21:14:47.475190   INFO   Processed transaction for Plate Foam Laminated 9in Blk. Applied discounts: 16.0, 7.0, 5.0%. Final discount: 11.5%. Final price: 1895.4930000000002
+2025-05-18T21:14:47.475264   INFO   Processed transaction for Pasta - Penne Lisce Dry. Applied discounts: 29.0%. Final discount: 29.0%. Final price: 295.928
+2025-05-18T21:14:47.475299   INFO   Processed transaction for Chocolate - Milk Callets. Applied discounts: 3.0%. Final discount: 3.0%. Final price: 159.1188
+2025-05-18T21:14:47.475335   INFO   Processed transaction for Bagel - Ched Chs Presliced. Applied discounts: 21.0%. Final discount: 21.0%. Final price: 452.2908
+2025-05-18T21:14:47.475386   INFO   Processed transaction for Horseradish Root. Applied discounts: 24.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 1580.1667
+2025-05-18T21:14:47.475436   INFO   Processed transaction for Bamboo Shoots - Sliced. Applied discounts: 3.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 63.1465
+2025-05-18T21:14:47.475481   INFO   Processed transaction for Sauce - Oyster. Applied discounts: 1.0, 5.0%. Final discount: 3.0%. Final price: 166.8012
+2025-05-18T21:14:47.475519   INFO   Processed transaction for Cotton Wet Mop 16 Oz. Applied discounts: 3.0%. Final discount: 3.0%. Final price: 802.19
+2025-05-18T21:14:47.475567   INFO   Processed transaction for Cheese - Marble. Applied discounts: 2.0, 10.0, 7.0, 5.0%. Final discount: 8.5%. Final price: 958.1880000000001
+2025-05-18T21:14:47.475649   INFO   Processed transaction for Wine - Cotes Du Rhone Parallele. Applied discounts: 7.0, 5.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 1598.0475000000001
+2025-05-18T21:14:47.475714   INFO   Processed transaction for Mop Head - Cotton 24 Oz. Applied discounts: 5.0, 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 1429.54125
+2025-05-18T21:14:47.475815   INFO   Processed transaction for Eggwhite Frozen. Applied discounts: 9.0, 7.0, 5.0, 5.0%. Final discount: 8.0%. Final price: 3090.9424
+2025-05-18T21:14:47.475866   INFO   Processed transaction for Truffle Cups - Brown. Applied discounts: 14.0, 5.0%. Final discount: 9.5%. Final price: 686.39725
+2025-05-18T21:14:47.475921   INFO   Processed transaction for Muskox - French Rack. Applied discounts: 7.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 561.2610000000001
+2025-05-18T21:14:47.475984   INFO   Processed transaction for Sprite Diet - 355ml. Applied discounts: 25.0, 10.0, 5.0%. Final discount: 17.5%. Final price: 63.392999999999994
+2025-05-18T21:14:47.476034   INFO   Processed transaction for Burger Veggie. Applied discounts: 10.0, 7.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 1091.7779999999998
+2025-05-18T21:14:47.476084   INFO   Processed transaction for Food Colouring - Orange. Applied discounts: 2.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1177.1496
+2025-05-18T21:14:47.476132   INFO   Processed transaction for Truffle Cups - White Paper. Applied discounts: 9.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.0%. Final price: 1856.8176
+2025-05-18T21:14:47.476208   INFO   Processed transaction for Ostrich - Prime Cut. Applied discounts: 3.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 1617.39025
+2025-05-18T21:14:47.476258   INFO   Processed transaction for Sole - Iqf. Applied discounts: 10.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 3396.617
+2025-05-18T21:14:47.476299   INFO   Processed transaction for Muffin Batt - Carrot Spice. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 100.6434
+2025-05-18T21:14:47.476351   INFO   Processed transaction for Pork - Chop Frenched. Applied discounts: 19.0, 7.0, 5.0%. Final discount: 13.0%. Final price: 542.2362
+2025-05-18T21:14:47.476396   INFO   Processed transaction for Bread - Roll Whole Wheat. Applied discounts: 6.0, 5.0, 5.0, 5.0%. Final discount: 5.5%. Final price: 1387.08045
+2025-05-18T21:14:47.476443   INFO   Processed transaction for Island Oasis - Peach Daiquiri. Applied discounts: 15.0, 10.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 2617.3875
+2025-05-18T21:14:47.476502   INFO   Processed transaction for Cheese - Gouda. Applied discounts: 29.0, 10.0, 5.0, 5.0%. Final discount: 19.5%. Final price: 172.33440000000002
+2025-05-18T21:14:47.476577   INFO   Processed transaction for Food Colouring - Green. Applied discounts: 18.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 649.9971
+2025-05-18T21:14:47.476626   INFO   Processed transaction for Bread - White Sliced. Applied discounts: 13.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 14.0%. Final price: 35.002
+2025-05-18T21:14:47.476681   INFO   Processed transaction for Parsley - Fresh. Applied discounts: 11.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 13.0%. Final price: 1822.5108
+2025-05-18T21:14:47.476735   INFO   Processed transaction for Pop - Club Soda Can. Applied discounts: 26.0%. Final discount: 26.0%. Final price: 295.7928
+2025-05-18T21:14:47.476783   INFO   Processed transaction for Muffin Hinge 117n. Applied discounts: 3.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 67.17450000000001
+2025-05-18T21:14:47.476833   INFO   Processed transaction for Hipnotiq Liquor. Applied discounts: 20.0, 5.0%. Final discount: 12.5%. Final price: 116.30499999999999
+2025-05-18T21:14:47.476884   INFO   Processed transaction for Jameson - Irish Whiskey. Applied discounts: 3.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 860.5575
+2025-05-18T21:14:47.476931   INFO   Processed transaction for Peas Snow. Applied discounts: 13.0, 7.0, 5.0%. Final discount: 10.0%. Final price: 2176.7400000000002
+2025-05-18T21:14:47.477027   INFO   Processed transaction for Soup - Knorr Ministrone. Applied discounts: 14.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 12.0%. Final price: 1027.8576
+2025-05-18T21:14:47.477186   INFO   Processed transaction for Soup Campbells Split Pea And Ham. Applied discounts: 1.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 493.173
+2025-05-18T21:14:47.477264   INFO   Processed transaction for Beef - Ox Tongue. Applied discounts: 1.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 356.36400000000003
+2025-05-18T21:14:47.477318   INFO   Processed transaction for Water - Aquafina Vitamin. Applied discounts: 9.0%. Final discount: 9.0%. Final price: 474.06450000000007
+2025-05-18T21:14:47.477372   INFO   Processed transaction for Sesame Seed. Applied discounts: 20.0, 5.0%. Final discount: 12.5%. Final price: 994.6125000000001
+2025-05-18T21:14:47.477424   INFO   Processed transaction for Wine - Soave Folonari. Applied discounts: 7.0, 5.0, 7.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 1625.0355
+2025-05-18T21:14:47.480416   INFO   Processed transaction for Pork - Ham Hocks - Smoked. Applied discounts: 9.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 9.5%. Final price: 773.5034999999999
+2025-05-18T21:14:47.480684   INFO   Processed transaction for Cheese - Woolwich Goat Log. Applied discounts: 28.0, 10.0, 10.0, 5.0%. Final discount: 19.0%. Final price: 2591.5950000000003
+2025-05-18T21:14:47.480904   INFO   Processed transaction for Bread - Roll Calabrese. Applied discounts: 10.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 203.37624999999997
+2025-05-18T21:14:47.480976   INFO   Processed transaction for Pork - Smoked Back Bacon. Applied discounts: 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 2029.6529999999998
+2025-05-18T21:14:47.481037   INFO   Processed transaction for Compound - Raspberry. Applied discounts: 3.0, 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 1658.3584999999998
+2025-05-18T21:14:47.481100   INFO   Processed transaction for Mousse - Banana Chocolate. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 544.7787500000001
+2025-05-18T21:14:47.481154   INFO   Processed transaction for Flour - Chickpea. Applied discounts: 13.0, 5.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 957.0834
+2025-05-18T21:14:47.481207   INFO   Processed transaction for Wine - Baron De Rothschild. Applied discounts: 13.0, 5.0, 10.0, 5.0%. Final discount: 11.5%. Final price: 3258.7824
+2025-05-18T21:14:47.481259   INFO   Processed transaction for Tart Shells - Savory 3. Applied discounts: 2.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 836.4014999999999
+2025-05-18T21:14:47.481331   INFO   Processed transaction for Gelatine Leaves - Envelopes. Applied discounts: 7.0%. Final discount: 7.0%. Final price: 575.6328000000001
+2025-05-18T21:14:47.481399   INFO   Processed transaction for Soup - Campbells Beef Barley. Applied discounts: 8.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 9.0%. Final price: 71.344
+2025-05-18T21:14:47.481469   INFO   Processed transaction for Sugar - Sweet N Low Individual. Applied discounts: 26.0%. Final discount: 26.0%. Final price: 130.8838
+2025-05-18T21:14:47.481578   INFO   Processed transaction for Flour - Fast / Rapid. Applied discounts: 21.0%. Final discount: 21.0%. Final price: 466.3212
+2025-05-18T21:14:47.481661   INFO   Processed transaction for Flower - Leather Leaf Fern. Applied discounts: 12.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 797.0748
+2025-05-18T21:14:47.481806   INFO   Processed transaction for Potatoes - Mini Red. Applied discounts: 6.0, 10.0, 5.0%. Final discount: 8.0%. Final price: 297.62919999999997
+2025-05-18T21:14:47.482099   INFO   Processed transaction for Cheese - Brick With Pepper. Applied discounts: 5.0, 10.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 10.0%. Final price: 1130.976
+2025-05-18T21:14:47.482167   INFO   Processed transaction for Tea - Decaf 1 Cup. Applied discounts: 14.0%. Final discount: 14.0%. Final price: 191.26399999999998
+2025-05-18T21:14:47.482294   INFO   Processed transaction for Wine - Prosecco Valdobienne. Applied discounts: 7.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1878.1848000000002
+2025-05-18T21:14:47.482371   INFO   Processed transaction for Wonton Wrappers. Applied discounts: 12.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 16.0%. Final price: 3501.5987999999998
+2025-05-18T21:14:47.482449   INFO   Processed transaction for Oranges. Applied discounts: 23.0, 50.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 36.5%. Final price: 1716.024
+2025-05-18T21:14:47.482505   INFO   Processed transaction for Vodka - Smirnoff. Applied discounts: 12.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 121.3839
+2025-05-18T21:14:47.482594   INFO   Processed transaction for Doilies - 7 Paper. Applied discounts: 21.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 18.0%. Final price: 1309.7532
+2025-05-18T21:14:47.482757   INFO   Processed transaction for Sauce - Vodka Blush. Applied discounts: 8.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 170.221
+2025-05-18T21:14:47.482862   INFO   Processed transaction for Fruit Salad Deluxe. Applied discounts: 13.0, 7.0, 5.0%. Final discount: 10.0%. Final price: 1309.824
+2025-05-18T21:14:47.483051   INFO   Processed transaction for Tray - 16in Rnd Blk. Applied discounts: 11.0, 5.0, 5.0, 5.0%. Final discount: 8.0%. Final price: 926.2560000000001
+2025-05-18T21:14:47.483138   INFO   Processed transaction for Shallots. Applied discounts: 5.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 1074.5910000000001
+2025-05-18T21:14:47.483232   INFO   Processed transaction for Lobak. Applied discounts: 14.0, 5.0, 5.0%. Final discount: 9.5%. Final price: 113.7766
+2025-05-18T21:14:47.483460   INFO   Processed transaction for The Pop Shoppe - Black Cherry. Applied discounts: 20.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 347.96125
+2025-05-18T21:14:47.483536   INFO   Processed transaction for Cheese - Le Cru Du Clocher. Applied discounts: 20.0, 10.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 337.977
+2025-05-18T21:14:47.483718   INFO   Processed transaction for Bread - Sticks Thin Plain. Applied discounts: 2.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 1716.174
+2025-05-18T21:14:47.483813   INFO   Processed transaction for Assorted Desserts. Applied discounts: 21.0, 5.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 97.0746
+2025-05-18T21:14:47.483884   INFO   Processed transaction for Shrimp - 31/40. Applied discounts: 22.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 21.0%. Final price: 1707.3559
+2025-05-18T21:14:47.484005   INFO   Processed transaction for Appetizer - Shrimp Puff. Applied discounts: 24.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 164.672
+2025-05-18T21:14:47.484464   INFO   Processed transaction for Shortbread - Cookie Crumbs. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 601.179
+2025-05-18T21:14:47.484640   INFO   Processed transaction for Sausage - Meat. Applied discounts: 13.0%. Final discount: 13.0%. Final price: 203.72789999999998
+2025-05-18T21:14:47.484778   INFO   Processed transaction for Raspberries - Frozen. Applied discounts: 25.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 1478.5155
+2025-05-18T21:14:47.484837   INFO   Processed transaction for Carbonated Water - Lemon Lime. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 43.732499999999995
+2025-05-18T21:14:47.484907   INFO   Processed transaction for Cookie Dough - Oatmeal Rasin. Applied discounts: 10.0, 5.0%. Final discount: 7.5%. Final price: 205.06324999999998
+2025-05-18T21:14:47.484959   INFO   Processed transaction for Coffee Cup 16oz Foam. Applied discounts: 26.0, 7.0, 5.0%. Final discount: 16.5%. Final price: 1890.1727999999998
+2025-05-18T21:14:47.485023   INFO   Processed transaction for Cheese - Swiss. Applied discounts: 24.0, 10.0, 5.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 1314.4544
+2025-05-18T21:14:47.485069   INFO   Processed transaction for Flour - Whole Wheat. Applied discounts: 10.0, 10.0, 5.0%. Final discount: 10.0%. Final price: 3105.0
+2025-05-18T21:14:47.485118   INFO   Processed transaction for Tobasco Sauce. Applied discounts: 24.0, 5.0%. Final discount: 14.5%. Final price: 135.6201
+2025-05-18T21:14:47.485159   INFO   Processed transaction for Vegetable - Base. Applied discounts: 17.0, 5.0%. Final discount: 11.0%. Final price: 25.632
+2025-05-18T21:14:47.485201   INFO   Processed transaction for Macaroons - Two Bite Choc. Applied discounts: 9.0, 5.0%. Final discount: 7.0%. Final price: 672.5387999999999
+2025-05-18T21:14:47.485251   INFO   Processed transaction for Iced Tea - Lemon 460 Ml. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 91.0624
+2025-05-18T21:14:47.485284   INFO   Processed transaction for Cookie Chocolate Chip With. Applied discounts: 19.0%. Final discount: 19.0%. Final price: 246.5235
+2025-05-18T21:14:47.485328   INFO   Processed transaction for Wine - Chardonnay Mondavi. Applied discounts: 7.0, 5.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 460.79400000000004
+2025-05-18T21:14:47.485561   INFO   Processed transaction for Kale - Red. Applied discounts: 12.0, 10.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 1893.2169
+2025-05-18T21:14:47.485702   INFO   Processed transaction for Chevere Logs. Applied discounts: 29.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 19.5%. Final price: 482.37210000000005
+2025-05-18T21:14:47.485881   INFO   Processed transaction for Fondant - Icing. Applied discounts: 23.0, 5.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 1108.5056
+2025-05-18T21:14:47.485993   INFO   Processed transaction for Table Cloth 53x53 White. Applied discounts: 12.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 1793.9124
+2025-05-18T21:14:47.486110   INFO   Processed transaction for Soup - Campbells Asian Noodle. Applied discounts: 6.0, 5.0%. Final discount: 5.5%. Final price: 403.5906
+2025-05-18T21:14:47.486217   INFO   Processed transaction for Pate - Cognac. Applied discounts: 1.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2524.1256000000003
+2025-05-18T21:14:47.486310   INFO   Processed transaction for Turnip - White. Applied discounts: 18.0%. Final discount: 18.0%. Final price: 196.5294
+2025-05-18T21:14:47.486377   INFO   Processed transaction for Cheese - Woolwich Goat Log. Applied discounts: 26.0, 10.0, 5.0, 5.0%. Final discount: 18.0%. Final price: 754.0391999999999
+2025-05-18T21:14:47.486458   INFO   Processed transaction for Oil - Shortening - All - Purpose. Applied discounts: 10.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 2099.1515
+2025-05-18T21:14:47.486795   INFO   Processed transaction for Thyme - Fresh. Applied discounts: 2.0%. Final discount: 2.0%. Final price: 87.3768
+2025-05-18T21:14:47.486908   INFO   Processed transaction for Hagen Daza - Dk Choocolate. Applied discounts: 26.0, 10.0, 5.0, 5.0%. Final discount: 18.0%. Final price: 1512.162
+2025-05-18T21:14:47.486973   INFO   Processed transaction for Yoplait - Strawbrasp Peac. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 319.40250000000003
+2025-05-18T21:14:47.487030   INFO   Processed transaction for Cream - 35%. Applied discounts: 17.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 13.5%. Final price: 1231.2237
+2025-05-18T21:14:47.487385   INFO   Processed transaction for Lemon Balm - Fresh. Applied discounts: 20.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 17.5%. Final price: 678.7935000000001
+2025-05-18T21:14:47.487447   INFO   Processed transaction for Cheese - Grie Des Champ. Applied discounts: 27.0, 10.0, 5.0, 5.0, 5.0%. Final discount: 18.5%. Final price: 198.3384
+2025-05-18T21:14:47.487537   INFO   Processed transaction for Stock - Beef White. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 456.31080000000003
+2025-05-18T21:14:47.487706   INFO   Processed transaction for Onions - Cippolini. Applied discounts: 15.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 580.608
+2025-05-18T21:14:47.488899   INFO   Processed transaction for Beef - Tender Tips. Applied discounts: 24.0, 5.0%. Final discount: 14.5%. Final price: 14.594850000000001
+2025-05-18T21:14:47.490309   INFO   Processed transaction for Beer - Guiness. Applied discounts: 29.0, 10.0, 5.0%. Final discount: 19.5%. Final price: 2992.5392
+2025-05-18T21:14:47.490411   INFO   Processed transaction for Soup - Campbells Beef Stew. Applied discounts: 23.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 358.6716
+2025-05-18T21:14:47.490480   INFO   Processed transaction for Soup - Chicken And Wild Rice. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 1331.1936
+2025-05-18T21:14:47.491005   INFO   Processed transaction for Ice Cream - Life Savers. Applied discounts: 1.0, 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 74.7864
+2025-05-18T21:14:47.491100   INFO   Processed transaction for Pork - Backfat. Applied discounts: 27.0%. Final discount: 27.0%. Final price: 458.4765
+2025-05-18T21:14:47.491306   INFO   Processed transaction for Pecan Raisin - Tarts. Applied discounts: 11.0, 7.0, 5.0%. Final discount: 9.0%. Final price: 1563.835
+2025-05-18T21:14:47.491385   INFO   Processed transaction for Brocolinni - Gaylan Chinese. Applied discounts: 19.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 586.7664
+2025-05-18T21:14:47.491448   INFO   Processed transaction for Cheese - Manchego Spanish. Applied discounts: 22.0, 10.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 18.5%. Final price: 92.91
+2025-05-18T21:14:47.491543   INFO   Processed transaction for Mustard - Pommery. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 1544.8048000000001
+2025-05-18T21:14:47.492119   INFO   Processed transaction for Potatoes - Mini Red. Applied discounts: 3.0, 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 2331.4631999999997
+2025-05-18T21:14:47.492200   INFO   Processed transaction for Pastry - Carrot Muffin - Mini. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1374.6689999999999
+2025-05-18T21:14:47.492256   INFO   Processed transaction for Sparkling Wine - Rose Freixenet. Applied discounts: 24.0, 5.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 3060.0855
+2025-05-18T21:14:47.492307   INFO   Processed transaction for Jam - Blackberry 20 Ml Jar. Applied discounts: 14.0, 7.0, 5.0, 5.0%. Final discount: 10.5%. Final price: 809.0620999999999
+2025-05-18T21:14:47.492357   INFO   Processed transaction for Stock - Fish. Applied discounts: 6.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1006.59
+2025-05-18T21:14:47.492412   INFO   Processed transaction for Poppy Seed. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 437.247
+2025-05-18T21:14:47.492493   INFO   Processed transaction for Fond - Neutral. Applied discounts: 28.0, 10.0, 5.0, 5.0%. Final discount: 19.0%. Final price: 1322.0415
+2025-05-18T21:14:47.492842   INFO   Processed transaction for Artichoke - Fresh. Applied discounts: 9.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.0%. Final price: 2709.7839999999997
+2025-05-18T21:14:47.492906   INFO   Processed transaction for Muffin - Zero Transfat. Applied discounts: 19.0%. Final discount: 19.0%. Final price: 309.6792
+2025-05-18T21:14:47.492984   INFO   Processed transaction for Soup - Campbells Bean Medley. Applied discounts: 2.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 2208.6400000000003
+2025-05-18T21:14:47.493037   INFO   Processed transaction for Canadian Emmenthal. Applied discounts: 11.0, 10.0, 5.0%. Final discount: 10.5%. Final price: 3450.8336
+2025-05-18T21:14:47.493090   INFO   Processed transaction for Corn - On The Cob. Applied discounts: 5.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 3216.80625
+2025-05-18T21:14:47.493144   INFO   Processed transaction for Lamb Rack Frenched Australian. Applied discounts: 23.0, 5.0%. Final discount: 14.0%. Final price: 119.41960000000002
+2025-05-18T21:14:47.493197   INFO   Processed transaction for Pastry - Baked Cinnamon Stick. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 2618.36975
+2025-05-18T21:14:47.493280   INFO   Processed transaction for Tortillas - Flour 12. Applied discounts: 11.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 10.5%. Final price: 263.9892
+2025-05-18T21:14:47.493811   INFO   Processed transaction for Steampan - Lid For Half Size. Applied discounts: 12.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 3121.8975
+2025-05-18T21:14:47.493879   INFO   Processed transaction for Capon - Breast Double Wing On. Applied discounts: 27.0%. Final discount: 27.0%. Final price: 483.66149999999993
+2025-05-18T21:14:47.493936   INFO   Processed transaction for Loquat. Applied discounts: 9.0, 7.0, 5.0%. Final discount: 8.0%. Final price: 2243.8248
+2025-05-18T21:14:47.493987   INFO   Processed transaction for Juice - Ocean Spray Cranberry. Applied discounts: 28.0, 5.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 1109.08875
+2025-05-18T21:14:47.494035   INFO   Processed transaction for Beef - Inside Round. Applied discounts: 18.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 8.4252
+2025-05-18T21:14:47.494139   INFO   Processed transaction for Pancetta. Applied discounts: 29.0, 5.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 905.5134
+2025-05-18T21:14:47.494218   INFO   Processed transaction for Garlic - Elephant. Applied discounts: 20.0, 10.0, 5.0%. Final discount: 15.0%. Final price: 1916.7925000000002
+2025-05-18T21:14:47.494280   INFO   Processed transaction for Ranchero - Primerba Paste. Applied discounts: 1.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 1202.7959999999998
+2025-05-18T21:14:47.494333   INFO   Processed transaction for Wine - Charddonnay Errazuriz. Applied discounts: 17.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 246.20069999999998
+2025-05-18T21:14:47.494382   INFO   Processed transaction for Potatoes - Peeled. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 370.5475
+2025-05-18T21:14:47.494445   INFO   Processed transaction for Triple Sec - Mcguinness. Applied discounts: 10.0%. Final discount: 10.0%. Final price: 159.66
+2025-05-18T21:14:47.494604   INFO   Processed transaction for Longos - Penne With Pesto. Applied discounts: 22.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 2355.192
+2025-05-18T21:14:47.494678   INFO   Processed transaction for Onions - Red Pearl. Applied discounts: 6.0, 5.0%. Final discount: 5.5%. Final price: 394.254
+2025-05-18T21:14:47.494738   INFO   Processed transaction for Pepper - Black Crushed. Applied discounts: 2.0, 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 2255.52
+2025-05-18T21:14:47.494796   INFO   Processed transaction for Fond - Neutral. Applied discounts: 29.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 22.0%. Final price: 884.2548
+2025-05-18T21:14:47.494850   INFO   Processed transaction for Beer - Paulaner Hefeweisse. Applied discounts: 3.0, 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 452.751
+2025-05-18T21:14:47.494949   INFO   Processed transaction for Sage Derby. Applied discounts: 24.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 400.6968
+2025-05-18T21:14:47.495011   INFO   Processed transaction for Pasta - Fusili Tri - Coloured. Applied discounts: 13.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 16.5%. Final price: 1000.0377500000001
+2025-05-18T21:14:47.495064   INFO   Processed transaction for Lady Fingers. Applied discounts: 27.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 21.0%. Final price: 2291.6477999999997
+2025-05-18T21:14:47.495125   INFO   Processed transaction for Pop - Club Soda Can. Applied discounts: 11.0, 5.0, 5.0%. Final discount: 8.0%. Final price: 829.6652
+2025-05-18T21:14:47.495177   INFO   Processed transaction for Cardamon Ground. Applied discounts: 23.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 16.5%. Final price: 495.8898
+2025-05-18T21:14:47.495244   INFO   Processed transaction for Ice Cream - Life Savers. Applied discounts: 25.0, 5.0%. Final discount: 15.0%. Final price: 227.2475
+2025-05-18T21:14:47.495296   INFO   Processed transaction for Five Alive Citrus. Applied discounts: 23.0, 5.0%. Final discount: 14.0%. Final price: 177.2288
+2025-05-18T21:14:47.495354   INFO   Processed transaction for Bagel - 12 Grain Preslice. Applied discounts: 17.0, 5.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 1055.4243
+2025-05-18T21:14:47.495403   INFO   Processed transaction for Cheese - Augre Des Champs. Applied discounts: 12.0, 10.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 1518.5625
+2025-05-18T21:14:47.495454   INFO   Processed transaction for Chocolate - Milk Callets. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 54.169000000000004
+2025-05-18T21:14:47.495505   INFO   Processed transaction for Tea Leaves - Oolong. Applied discounts: 27.0, 7.0, 5.0%. Final discount: 17.0%. Final price: 880.5636000000001
+2025-05-18T21:14:47.495560   INFO   Processed transaction for Chilli Paste Hot Sambal Oelek. Applied discounts: 28.0, 10.0, 5.0%. Final discount: 19.0%. Final price: 250.047
+2025-05-18T21:14:47.495734   INFO   Processed transaction for Red Cod Fillets - 225g. Applied discounts: 24.0, 7.0, 5.0%. Final discount: 15.5%. Final price: 2777.3291
+2025-05-18T21:14:47.495976   INFO   Processed transaction for Fuji Apples. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 1610.7168000000001
+2025-05-18T21:14:47.496140   INFO   Processed transaction for Bread - Assorted Rolls. Applied discounts: 2.0%. Final discount: 2.0%. Final price: 419.91040000000004
+2025-05-18T21:14:47.496285   INFO   Processed transaction for Cocktail Napkin Blue. Applied discounts: 11.0%. Final discount: 11.0%. Final price: 13.403399999999998
+2025-05-18T21:14:47.496434   INFO   Processed transaction for Soup - French Onion Dry. Applied discounts: 18.0, 5.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 977.8188000000001
+2025-05-18T21:14:47.496576   INFO   Processed transaction for Coffee - Irish Cream. Applied discounts: 3.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2271.0024
+2025-05-18T21:14:47.496659   INFO   Processed transaction for Glycerine. Applied discounts: 14.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 17.0%. Final price: 3197.16
+2025-05-18T21:14:47.496719   INFO   Processed transaction for Lobster - Base. Applied discounts: 2.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1325.934
+2025-05-18T21:14:47.496775   INFO   Processed transaction for Milk - Skim. Applied discounts: 19.0, 10.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 1121.8968
+2025-05-18T21:14:47.496828   INFO   Processed transaction for Cookie Choc. Applied discounts: 16.0, 7.0, 5.0%. Final discount: 11.5%. Final price: 2935.4388
+2025-05-18T21:14:47.496883   INFO   Processed transaction for Beer - Steamwhistle. Applied discounts: 2.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 883.592
+2025-05-18T21:14:47.496938   INFO   Processed transaction for Spinach - Spinach Leaf. Applied discounts: 10.0%. Final discount: 10.0%. Final price: 258.264
+2025-05-18T21:14:47.496992   INFO   Processed transaction for Chinese Foods - Chicken Wing. Applied discounts: 5.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 2924.816
+2025-05-18T21:14:47.497076   INFO   Processed transaction for Cranberries - Frozen. Applied discounts: 22.0, 5.0, 5.0%. Final discount: 13.5%. Final price: 1678.1345999999999
+2025-05-18T21:14:47.497258   INFO   Processed transaction for Soup - Campbells Chili. Applied discounts: 1.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 1615.05
+2025-05-18T21:14:47.497443   INFO   Processed transaction for General Purpose Trigger. Applied discounts: 27.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 1843.7328
+2025-05-18T21:14:47.497509   INFO   Processed transaction for Liqueur Banana Ramazzotti. Applied discounts: 28.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 21.5%. Final price: 1340.83495
+2025-05-18T21:14:47.497561   INFO   Processed transaction for Bagelers. Applied discounts: 7.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 2967.9672
+2025-05-18T21:14:47.497627   INFO   Processed transaction for Chocolate Bar - Smarties. Applied discounts: 14.0, 5.0, 5.0, 5.0%. Final discount: 9.5%. Final price: 196.7289
+2025-05-18T21:14:47.497676   INFO   Processed transaction for Longos - Greek Salad. Applied discounts: 19.0, 50.0, 10.0, 5.0%. Final discount: 34.5%. Final price: 515.4064
+2025-05-18T21:14:47.497723   INFO   Processed transaction for Beer - Blue Light. Applied discounts: 24.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 262.9296
+2025-05-18T21:14:47.497772   INFO   Processed transaction for Ice Cream - Super Sandwich. Applied discounts: 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 860.7439999999999
+2025-05-18T21:14:47.497822   INFO   Processed transaction for Bacardi Breezer - Tropical. Applied discounts: 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 58.9358
+2025-05-18T21:14:47.497925   INFO   Processed transaction for Beef - Montreal Smoked Brisket. Applied discounts: 10.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 2818.59375
+2025-05-18T21:14:47.497998   INFO   Processed transaction for Sprouts Dikon. Applied discounts: 6.0, 7.0, 5.0%. Final discount: 6.5%. Final price: 2044.0409000000004
+2025-05-18T21:14:47.498063   INFO   Processed transaction for Pasta - Bauletti Chicken White. Applied discounts: 3.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1803.0240000000001
+2025-05-18T21:14:47.498115   INFO   Processed transaction for Chicken - Ground. Applied discounts: 9.0, 7.0, 5.0%. Final discount: 8.0%. Final price: 1012.368
+2025-05-18T21:14:47.498164   INFO   Processed transaction for Wine - White French Cross. Applied discounts: 25.0, 5.0, 7.0, 5.0%. Final discount: 16.0%. Final price: 1245.6192
+2025-05-18T21:14:47.498228   INFO   Processed transaction for Appetizer - Tarragon Chicken. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 2297.8559999999998
+2025-05-18T21:14:47.498277   INFO   Processed transaction for Phyllo Dough. Applied discounts: 18.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 1548.2543999999998
+2025-05-18T21:14:47.498324   INFO   Processed transaction for Cheese - Camembert. Applied discounts: 23.0, 10.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 16.5%. Final price: 376.6017
+2025-05-18T21:14:47.498359   INFO   Processed transaction for Jam - Raspberry. Applied discounts: 1.0%. Final discount: 1.0%. Final price: 212.652
+2025-05-18T21:14:47.498401   INFO   Processed transaction for Wine - Pinot Noir Mondavi Coastal. Applied discounts: 26.0, 5.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 1407.366
+2025-05-18T21:14:47.498488   INFO   Processed transaction for Creamers - 10%. Applied discounts: 21.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 20.5%. Final price: 2324.8344
+2025-05-18T21:14:47.498671   INFO   Processed transaction for Wine - Chablis 2003 Champs. Applied discounts: 24.0, 5.0, 7.0, 5.0%. Final discount: 15.5%. Final price: 744.614
+2025-05-18T21:14:47.498740   INFO   Processed transaction for Wine - Rosso Del Veronese Igt. Applied discounts: 1.0, 5.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 1043.024
+2025-05-18T21:14:47.498813   INFO   Processed transaction for Filter - Coffee. Applied discounts: 28.0, 7.0, 5.0, 5.0%. Final discount: 17.5%. Final price: 483.021
+2025-05-18T21:14:47.498867   INFO   Processed transaction for Ice Cream Bar - Oreo Sandwich. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 1365.7426999999998
+2025-05-18T21:14:47.498918   INFO   Processed transaction for Ham - Proscuitto. Applied discounts: 9.0, 50.0, 7.0, 5.0, 5.0%. Final discount: 29.5%. Final price: 1599.0387
+2025-05-18T21:14:47.498967   INFO   Processed transaction for Juice - Apple 341 Ml. Applied discounts: 26.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 486.8586
+2025-05-18T21:14:47.499024   INFO   Processed transaction for Magnotta Bel Paese Red. Applied discounts: 25.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 32.946
+2025-05-18T21:14:47.499078   INFO   Processed transaction for Sauce Bbq Smokey. Applied discounts: 21.0%. Final discount: 21.0%. Final price: 88.40889999999999
+2025-05-18T21:14:47.499205   INFO   Processed transaction for Mix Pina Colada. Applied discounts: 26.0, 7.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 1215.63475
+2025-05-18T21:14:47.499321   INFO   Processed transaction for Chicken - Whole Roasting. Applied discounts: 19.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 598.6728
+2025-05-18T21:14:47.499416   INFO   Processed transaction for Sprouts - Peppercress. Applied discounts: 1.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 1099.3500000000001
+2025-05-18T21:14:47.499579   INFO   Processed transaction for Sugar Thermometer. Applied discounts: 8.0, 5.0, 5.0%. Final discount: 6.5%. Final price: 301.7619
+2025-05-18T21:14:47.499653   INFO   Processed transaction for Butter - Pod. Applied discounts: 7.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 54.6804
+2025-05-18T21:14:47.499709   INFO   Processed transaction for Garam Marsala. Applied discounts: 2.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 321.936
+2025-05-18T21:14:47.499764   INFO   Processed transaction for Mudslide. Applied discounts: 29.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 746.0040000000001
+2025-05-18T21:14:47.499816   INFO   Processed transaction for Ecolab - Ster Bac. Applied discounts: 13.0, 5.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 814.3408
+2025-05-18T21:14:47.499885   INFO   Processed transaction for Noodles - Cellophane Thin. Applied discounts: 17.0, 10.0, 5.0%. Final discount: 13.5%. Final price: 2514.555
+2025-05-18T21:14:47.499937   INFO   Processed transaction for Appetizer - Southwestern. Applied discounts: 16.0, 7.0, 5.0%. Final discount: 11.5%. Final price: 1215.5121
+2025-05-18T21:14:47.500048   INFO   Processed transaction for Thyme - Dried. Applied discounts: 22.0, 5.0, 5.0%. Final discount: 13.5%. Final price: 222.28770000000003
+2025-05-18T21:14:47.500279   INFO   Processed transaction for Coffee - French Vanilla Frothy. Applied discounts: 16.0, 5.0%. Final discount: 10.5%. Final price: 649.5552
+2025-05-18T21:14:47.500379   INFO   Processed transaction for Ecolab - Solid Fusion. Applied discounts: 3.0%. Final discount: 3.0%. Final price: 44.503600000000006
+2025-05-18T21:14:47.500507   INFO   Processed transaction for Sour Puss - Tangerine. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1603.7234999999998
+2025-05-18T21:14:47.500667   INFO   Processed transaction for Napkin Colour. Applied discounts: 26.0%. Final discount: 26.0%. Final price: 212.12099999999998
+2025-05-18T21:14:47.500837   INFO   Processed transaction for Passion Fruit. Applied discounts: 2.0, 5.0%. Final discount: 3.5%. Final price: 227.98125
+2025-05-18T21:14:47.501074   INFO   Processed transaction for Beef - Tenderloin Tails. Applied discounts: 26.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 1066.0656
+2025-05-18T21:14:47.501231   INFO   Processed transaction for Calypso - Strawberry Lemonade. Applied discounts: 8.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 9.0%. Final price: 995.7584
+2025-05-18T21:14:47.501311   INFO   Processed transaction for Soupfoamcont12oz 112con. Applied discounts: 12.0, 7.0, 5.0, 5.0%. Final discount: 9.5%. Final price: 709.6648
+2025-05-18T21:14:47.501482   INFO   Processed transaction for Fudge - Cream Fudge. Applied discounts: 21.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 18.0%. Final price: 2223.7416000000003
+2025-05-18T21:14:47.501645   INFO   Processed transaction for Gingerale - Diet - Schweppes. Applied discounts: 17.0, 7.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 1700.16
+2025-05-18T21:14:47.501710   INFO   Processed transaction for Trueblue - Blueberry 12x473ml. Applied discounts: 16.0%. Final discount: 16.0%. Final price: 129.47760000000002
+2025-05-18T21:14:47.501772   INFO   Processed transaction for Calypso - Black Cherry Lemonade. Applied discounts: 8.0, 7.0, 5.0%. Final discount: 7.5%. Final price: 92.241
+2025-05-18T21:14:47.501840   INFO   Processed transaction for Puree - Raspberry. Applied discounts: 14.0, 7.0, 5.0%. Final discount: 10.5%. Final price: 1204.4910000000002
+2025-05-18T21:14:47.501880   INFO   Processed transaction for Pate - Cognac. Applied discounts: 19.0%. Final discount: 19.0%. Final price: 56.862
+2025-05-18T21:14:47.501941   INFO   Processed transaction for Hipnotiq Liquor. Applied discounts: 2.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 329.004
+2025-05-18T21:14:47.501981   INFO   Processed transaction for Icecream - Dstk Cml And Fdg. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 431.47259999999994
+2025-05-18T21:14:47.502060   INFO   Processed transaction for Muffin Mix - Carrot. Applied discounts: 11.0, 7.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 2499.4788
+2025-05-18T21:14:47.502196   INFO   Processed transaction for Mushroom - Morels Dry. Applied discounts: 10.0, 10.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 678.24
+2025-05-18T21:14:47.502255   INFO   Processed transaction for Foie Gras. Applied discounts: 7.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 155.6415
+2025-05-18T21:14:47.502312   INFO   Processed transaction for Pepperoni Slices. Applied discounts: 2.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 988.152
+2025-05-18T21:14:47.502366   INFO   Processed transaction for Cake - Sheet Strawberry. Applied discounts: 10.0, 7.0, 5.0%. Final discount: 8.5%. Final price: 2196.4849499999996
+2025-05-18T21:14:47.502462   INFO   Processed transaction for Mahi Mahi. Applied discounts: 3.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 98.84549999999999
+2025-05-18T21:14:47.502632   INFO   Processed transaction for Beans - Yellow. Applied discounts: 29.0, 10.0, 5.0%. Final discount: 19.5%. Final price: 1894.2776999999999
+2025-05-18T21:14:47.502686   INFO   Processed transaction for Mushrooms - Honey. Applied discounts: 11.0, 5.0, 5.0%. Final discount: 8.0%. Final price: 530.5824
+2025-05-18T21:14:47.502738   INFO   Processed transaction for Longos - Lasagna Beef. Applied discounts: 26.0, 7.0, 5.0%. Final discount: 16.5%. Final price: 2373.9384
+2025-05-18T21:14:47.502791   INFO   Processed transaction for Food Colouring - Blue. Applied discounts: 8.0%. Final discount: 8.0%. Final price: 597.7056
+2025-05-18T21:14:47.502839   INFO   Processed transaction for Veal - Provimi Inside. Applied discounts: 3.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2187.9816
+2025-05-18T21:14:47.502889   INFO   Processed transaction for Olive - Spread Tapenade. Applied discounts: 18.0, 5.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 1003.5369000000001
+2025-05-18T21:14:47.502933   INFO   Processed transaction for Foil - Round Foil. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1156.9859999999999
+2025-05-18T21:14:47.502992   INFO   Processed transaction for Scallops - U - 10. Applied discounts: 24.0, 50.0, 10.0, 5.0%. Final discount: 37.0%. Final price: 157.8528
+2025-05-18T21:14:47.503045   INFO   Processed transaction for Bag - Bread White Plain. Applied discounts: 26.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 1425.7504
+2025-05-18T21:14:47.503091   INFO   Processed transaction for Carbonated Water - Raspberry. Applied discounts: 15.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 12.5%. Final price: 583.5375000000001
+2025-05-18T21:14:47.503252   INFO   Processed transaction for Wine - Segura Viudas Aria Brut. Applied discounts: 5.0, 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 792.8712
+2025-05-18T21:14:47.503329   INFO   Processed transaction for Amarula Cream. Applied discounts: 24.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 527.12205
+2025-05-18T21:14:47.503392   INFO   Processed transaction for Salmon - Atlantic No Skin. Applied discounts: 22.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 1736.28
+2025-05-18T21:14:47.503465   INFO   Processed transaction for Sugar Thermometer. Applied discounts: 4.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2587.1244
+2025-05-18T21:14:47.503522   INFO   Processed transaction for Liqueur - Melon. Applied discounts: 15.0, 7.0, 5.0%. Final discount: 11.0%. Final price: 2080.7666
+2025-05-18T21:14:47.503579   INFO   Processed transaction for Madeira. Applied discounts: 7.0, 7.0, 5.0%. Final discount: 7.0%. Final price: 1679.58
+2025-05-18T21:14:47.503677   INFO   Processed transaction for Flower - Commercial Spider. Applied discounts: 18.0, 5.0%. Final discount: 11.5%. Final price: 476.3778
+2025-05-18T21:14:47.503871   INFO   Processed transaction for Capon - Breast Double Wing On. Applied discounts: 26.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 162.3108
+2025-05-18T21:14:47.503973   INFO   Processed transaction for Smoked Tongue. Applied discounts: 22.0, 7.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 1092.1086
+2025-05-18T21:14:47.504031   INFO   Processed transaction for Apple - Fuji. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 449.654
+2025-05-18T21:14:47.504086   INFO   Processed transaction for Pork - Bacon Double Smoked. Applied discounts: 24.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 22.0%. Final price: 2127.0366
+2025-05-18T21:14:47.504135   INFO   Processed transaction for Island Oasis - Peach Daiquiri. Applied discounts: 12.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 153.7208
+2025-05-18T21:14:47.504192   INFO   Processed transaction for Pepper - Chipotle Canned. Applied discounts: 13.0%. Final discount: 13.0%. Final price: 71.9925
+2025-05-18T21:14:47.504241   INFO   Processed transaction for Wine - Duboeuf Beaujolais. Applied discounts: 16.0, 5.0, 5.0, 5.0%. Final discount: 10.5%. Final price: 1660.046
+2025-05-18T21:14:47.504288   INFO   Processed transaction for Soup - Knorr Classic Can. Chili. Applied discounts: 17.0, 5.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 404.3982
+2025-05-18T21:14:47.504337   INFO   Processed transaction for Water - Spring Water 355 Ml. Applied discounts: 16.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 13.0%. Final price: 1927.8242999999998
+2025-05-18T21:14:47.504400   INFO   Processed transaction for Onions - Green. Applied discounts: 21.0, 50.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 35.5%. Final price: 783.3396
+2025-05-18T21:14:47.504446   INFO   Processed transaction for Rice - Jasmine Sented. Applied discounts: 24.0, 7.0, 5.0%. Final discount: 15.5%. Final price: 1600.62435
+2025-05-18T21:14:47.504493   INFO   Processed transaction for Snapple Lemon Tea. Applied discounts: 26.0, 7.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 983.35445
+2025-05-18T21:14:47.504539   INFO   Processed transaction for Nut - Cashews Whole Raw. Applied discounts: 4.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1053.36
+2025-05-18T21:14:47.504647   INFO   Processed transaction for Bread - Triangle White. Applied discounts: 28.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 21.5%. Final price: 2132.80575
+2025-05-18T21:14:47.504699   INFO   Processed transaction for Pasta - Rotini Colour Dry. Applied discounts: 9.0, 5.0%. Final discount: 7.0%. Final price: 746.7156
+2025-05-18T21:14:47.504743   INFO   Processed transaction for Milk - Skim. Applied discounts: 18.0%. Final discount: 18.0%. Final price: 756.0727999999999
+2025-05-18T21:14:47.504792   INFO   Processed transaction for Beans - Green. Applied discounts: 26.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 20.5%. Final price: 1343.1127499999998
+2025-05-18T21:14:47.504879   INFO   Processed transaction for Longos - Lasagna Beef. Applied discounts: 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 2094.8651999999997
+2025-05-18T21:14:47.504922   INFO   Processed transaction for Bread - Olive Dinner Roll. Applied discounts: 22.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 14.9856
+2025-05-18T21:14:47.504994   INFO   Processed transaction for Soup - French Can Pea. Applied discounts: 9.0, 7.0, 5.0, 5.0%. Final discount: 8.0%. Final price: 795.524
+2025-05-18T21:14:47.505041   INFO   Processed transaction for Corn Meal. Applied discounts: 29.0, 10.0, 5.0%. Final discount: 19.5%. Final price: 315.94640000000004
+2025-05-18T21:14:47.505082   INFO   Processed transaction for Jerusalem Artichoke. Applied discounts: 1.0, 5.0%. Final discount: 3.0%. Final price: 788.2608
+2025-05-18T21:14:47.505134   INFO   Processed transaction for Ocean Spray - Kiwi Strawberry. Applied discounts: 11.0, 7.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 1754.6528999999998
+2025-05-18T21:14:47.505171   INFO   Processed transaction for Silicone Parch. 16.3x24.3. Applied discounts: 1.0, 5.0%. Final discount: 3.0%. Final price: 75.2138
+2025-05-18T21:14:47.505202   INFO   Processed transaction for Sachet. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 317.226
+2025-05-18T21:14:47.505350   INFO   Processed transaction for Spaghetti Squash. Applied discounts: 19.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 85.29839999999999
+2025-05-18T21:14:47.505413   INFO   Processed transaction for Coffee Beans - Chocolate. Applied discounts: 8.0, 7.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 1136.307
+2025-05-18T21:14:47.505460   INFO   Processed transaction for Bread - Flat Bread. Applied discounts: 27.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 21.0%. Final price: 2521.1823
+2025-05-18T21:14:47.505516   INFO   Processed transaction for Egg Patty Fried. Applied discounts: 18.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 1131.3309000000002
+2025-05-18T21:14:47.505557   INFO   Processed transaction for Grenadillo. Applied discounts: 1.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 454.67449999999997
+2025-05-18T21:14:47.505598   INFO   Processed transaction for Island Oasis - Peach Daiquiri. Applied discounts: 25.0, 7.0, 5.0%. Final discount: 16.0%. Final price: 739.284
+2025-05-18T21:14:47.505636   INFO   Processed transaction for Marsala - Sperone Fine D.o.c.. Applied discounts: 20.0, 7.0, 5.0%. Final discount: 13.5%. Final price: 1180.9326
+2025-05-18T21:14:47.505668   INFO   Processed transaction for Snapple - Mango Maddness. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 86.7984
+2025-05-18T21:14:47.505759   INFO   Processed transaction for Wine - Sake. Applied discounts: 11.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 13.0%. Final price: 1205.6286
+2025-05-18T21:14:47.505807   INFO   Processed transaction for Bread - Sticks Thin Plain. Applied discounts: 7.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 1956.636
+2025-05-18T21:14:47.505865   INFO   Processed transaction for Sugar - Fine. Applied discounts: 26.0, 7.0, 5.0%. Final discount: 16.5%. Final price: 1100.3963999999999
+2025-05-18T21:14:47.505902   INFO   Processed transaction for Snapple Lemon Tea. Applied discounts: 29.0%. Final discount: 29.0%. Final price: 168.9019
+2025-05-18T21:14:47.505944   INFO   Processed transaction for Trout - Rainbow Fresh. Applied discounts: 1.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2088.1536
+2025-05-18T21:14:47.505987   INFO   Processed transaction for Chutney Sauce - Mango. Applied discounts: 15.0, 5.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 1560.384
+2025-05-18T21:14:47.506028   INFO   Processed transaction for Wine - Placido Pinot Grigo. Applied discounts: 7.0, 5.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 1292.4923999999999
+2025-05-18T21:14:47.506082   INFO   Processed transaction for Lobster - Live. Applied discounts: 3.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2275.7306
+2025-05-18T21:14:47.506143   INFO   Processed transaction for Pastry - Key Limepoppy Seed Tea. Applied discounts: 25.0, 5.0%. Final discount: 15.0%. Final price: 382.092
+2025-05-18T21:14:47.506178   INFO   Processed transaction for Pepper - Julienne Frozen. Applied discounts: 5.0%. Final discount: 5.0%. Final price: 449.616
+2025-05-18T21:14:47.506218   INFO   Processed transaction for Tomatoes. Applied discounts: 11.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 13.0%. Final price: 103.8954
+2025-05-18T21:14:47.506287   INFO   Processed transaction for Water - Evian 355 Ml. Applied discounts: 15.0, 10.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 2134.4137499999997
+2025-05-18T21:14:47.506458   INFO   Processed transaction for Beer - Maudite. Applied discounts: 2.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 2446.995
+2025-05-18T21:14:47.506636   INFO   Processed transaction for Bouillion - Fish. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 521.208
+2025-05-18T21:14:47.506765   INFO   Processed transaction for Edible Flower - Mixed. Applied discounts: 26.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 20.5%. Final price: 510.3582
+2025-05-18T21:14:47.506823   INFO   Processed transaction for Split Peas - Green Dry. Applied discounts: 24.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 349.1136
+2025-05-18T21:14:47.506875   INFO   Processed transaction for Fib N9 - Prague Powder. Applied discounts: 26.0%. Final discount: 26.0%. Final price: 3.33
+2025-05-18T21:14:47.507027   INFO   Processed transaction for Pickle - Dill. Applied discounts: 17.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 16.0%. Final price: 1421.7839999999999
+2025-05-18T21:14:47.507088   INFO   Processed transaction for Truffle Cups - Red. Applied discounts: 25.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 20.0%. Final price: 1495.0
+2025-05-18T21:14:47.507150   INFO   Processed transaction for Broom - Angled. Applied discounts: 20.0, 10.0, 5.0%. Final discount: 15.0%. Final price: 3523.9215
+2025-05-18T21:14:47.507196   INFO   Processed transaction for Juice - Tomato 48 Oz. Applied discounts: 3.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 90.003
+2025-05-18T21:14:47.507240   INFO   Processed transaction for Sauce - Plum. Applied discounts: 8.0, 7.0, 5.0%. Final discount: 7.5%. Final price: 1008.657
+2025-05-18T21:14:47.507284   INFO   Processed transaction for Wine - Red Cabernet Merlot. Applied discounts: 20.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 810.6
+2025-05-18T21:14:47.507329   INFO   Processed transaction for Cheese - Brie Cups 125g. Applied discounts: 2.0, 10.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 1183.7175
+2025-05-18T21:14:47.507371   INFO   Processed transaction for Horseradish Root. Applied discounts: 20.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 17.5%. Final price: 127.9575
+2025-05-18T21:14:47.507436   INFO   Processed transaction for Turnip - Wax. Applied discounts: 7.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 1301.13
+2025-05-18T21:14:47.507578   INFO   Processed transaction for Cumin - Ground. Applied discounts: 2.0, 50.0, 5.0, 5.0, 5.0%. Final discount: 27.5%. Final price: 136.82925
+2025-05-18T21:14:47.507651   INFO   Processed transaction for Yogurt - Blueberry 175 Gr. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 208.23999999999998
+2025-05-18T21:14:47.507701   INFO   Processed transaction for Cinnamon Rolls. Applied discounts: 19.0, 5.0%. Final discount: 12.0%. Final price: 314.468
+2025-05-18T21:14:47.507747   INFO   Processed transaction for Wine - Vineland Estate Semi - Dry. Applied discounts: 23.0, 5.0, 7.0, 5.0%. Final discount: 15.0%. Final price: 1187.824
+2025-05-18T21:14:47.507785   INFO   Processed transaction for Dome Lid Clear P92008h. Applied discounts: 10.0%. Final discount: 10.0%. Final price: 220.338
+2025-05-18T21:14:47.507855   INFO   Processed transaction for Beef - Cow Feet Split. Applied discounts: 25.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 900.6515000000002
+2025-05-18T21:14:47.507961   INFO   Processed transaction for Mahi Mahi. Applied discounts: 29.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 111.5105
+2025-05-18T21:14:47.508008   INFO   Processed transaction for Horseradish Root. Applied discounts: 8.0, 5.0, 5.0, 5.0%. Final discount: 6.5%. Final price: 1068.4806
+2025-05-18T21:14:47.508066   INFO   Processed transaction for Bread - Sour Batard. Applied discounts: 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 662.418
+2025-05-18T21:14:47.508109   INFO   Processed transaction for Sprite Diet - 355ml. Applied discounts: 3.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 1839.944
+2025-05-18T21:14:47.508151   INFO   Processed transaction for Eggplant Italian. Applied discounts: 8.0, 10.0, 5.0%. Final discount: 9.0%. Final price: 2058.784
+2025-05-18T21:14:47.508209   INFO   Processed transaction for Pasta - Bauletti Chicken White. Applied discounts: 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 1753.0624
+2025-05-18T21:14:47.508249   INFO   Processed transaction for Pastry - Key Limepoppy Seed Tea. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 114.108
+2025-05-18T21:14:47.508289   INFO   Processed transaction for Veal - Tenderloin Untrimmed. Applied discounts: 7.0, 7.0, 5.0%. Final discount: 7.0%. Final price: 2499.4494
+2025-05-18T21:14:47.508455   INFO   Processed transaction for Bag - Regular Kraft 20 Lb. Applied discounts: 9.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.0%. Final price: 236.3856
+2025-05-18T21:14:47.508523   INFO   Processed transaction for Crackers - Soda / Saltins. Applied discounts: 29.0, 7.0, 5.0%. Final discount: 18.0%. Final price: 585.5538
+2025-05-18T21:14:47.508582   INFO   Processed transaction for Oysters - Smoked. Applied discounts: 27.0, 10.0, 5.0%. Final discount: 18.5%. Final price: 1430.9443999999999
+2025-05-18T21:14:47.508731   INFO   Processed transaction for Water - Mineral Natural. Applied discounts: 12.0%. Final discount: 12.0%. Final price: 747.34
+2025-05-18T21:14:47.508866   INFO   Processed transaction for Beef - Salted. Applied discounts: 8.0%. Final discount: 8.0%. Final price: 263.4144
+2025-05-18T21:14:47.508949   INFO   Processed transaction for Wine - Baron De Rothschild. Applied discounts: 12.0, 5.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 57.1326
+2025-05-18T21:14:47.509020   INFO   Processed transaction for Juice - Pineapple 341 Ml. Applied discounts: 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 274.856
+2025-05-18T21:14:47.509073   INFO   Processed transaction for Ice Cream Bar - Oreo Sandwich. Applied discounts: 16.0, 5.0%. Final discount: 10.5%. Final price: 500.61825
+2025-05-18T21:14:47.509123   INFO   Processed transaction for Beef - Roasted Cooked. Applied discounts: 26.0, 7.0, 5.0%. Final discount: 16.5%. Final price: 484.66740000000004
+2025-05-18T21:14:47.509178   INFO   Processed transaction for Dates. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 148.9956
+2025-05-18T21:14:47.509227   INFO   Processed transaction for Spice - Onion Powder Granulated. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 246.35399999999998
+2025-05-18T21:14:47.509303   INFO   Processed transaction for Creme De Cacao White. Applied discounts: 4.0, 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 875.3186
+2025-05-18T21:14:47.509534   INFO   Processed transaction for Oil - Olive. Applied discounts: 23.0, 50.0, 5.0, 5.0%. Final discount: 36.5%. Final price: 52.095400000000005
+2025-05-18T21:14:47.509744   INFO   Processed transaction for Wine - White Concha Y Toro. Applied discounts: 14.0, 5.0, 5.0, 5.0, 5.0%. Final discount: 9.5%. Final price: 843.0255999999999
+2025-05-18T21:14:47.509818   INFO   Processed transaction for Wine - Bourgogne 2002 La. Applied discounts: 21.0, 5.0%. Final discount: 13.0%. Final price: 286.7694
+2025-05-18T21:14:47.509914   INFO   Processed transaction for Bread - Rye. Applied discounts: 9.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.0%. Final price: 1669.7472
+2025-05-18T21:14:47.510084   INFO   Processed transaction for Filter - Coffee. Applied discounts: 4.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 949.587
+2025-05-18T21:14:47.510205   INFO   Processed transaction for Pasta - Lasagne Fresh. Applied discounts: 12.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 2550.9536
+2025-05-18T21:14:47.510462   INFO   Processed transaction for Gherkin. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 687.8430000000001
+2025-05-18T21:14:47.510568   INFO   Processed transaction for Swordfish Loin Portions. Applied discounts: 14.0, 7.0, 5.0%. Final discount: 10.5%. Final price: 145.90290000000002
+2025-05-18T21:14:47.510630   INFO   Processed transaction for Sausage - Chorizo. Applied discounts: 1.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 503.73750000000007
+2025-05-18T21:14:47.510684   INFO   Processed transaction for Sauce - Soy Low Sodium - 3.87l. Applied discounts: 27.0, 10.0, 5.0%. Final discount: 18.5%. Final price: 1561.31995
+2025-05-18T21:14:47.510814   INFO   Processed transaction for Hinge W Undercut. Applied discounts: 11.0, 10.0, 5.0, 5.0%. Final discount: 10.5%. Final price: 1566.6975
+2025-05-18T21:14:47.510920   INFO   Processed transaction for Wine - Fino Tio Pepe Gonzalez. Applied discounts: 7.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1189.0934
+2025-05-18T21:14:47.510978   INFO   Processed transaction for Container - Foam Dixie 12 Oz. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 534.6030000000001
+2025-05-18T21:14:47.511032   INFO   Processed transaction for Pastry - Baked Cinnamon Stick. Applied discounts: 6.0, 7.0, 5.0%. Final discount: 6.5%. Final price: 2325.6442
+2025-05-18T21:14:47.511159   INFO   Processed transaction for Appetizer - Crab And Brie. Applied discounts: 12.0, 7.0, 5.0%. Final discount: 9.5%. Final price: 796.1285
+2025-05-18T21:14:47.511244   INFO   Processed transaction for Carbonated Water - White Grape. Applied discounts: 9.0, 7.0, 5.0%. Final discount: 8.0%. Final price: 3107.4287999999997
+2025-05-18T21:14:47.511976   INFO   Processed transaction for Wine - Vineland Estate Semi - Dry. Applied discounts: 10.0, 5.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 587.0512500000001
+2025-05-18T21:14:47.512204   INFO   Processed transaction for Tomatoes - Yellow Hot House. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 235.353
+2025-05-18T21:14:47.512286   INFO   Processed transaction for Ice Cream - Turtles Stick Bar. Applied discounts: 23.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 74.3728
+2025-05-18T21:14:47.512477   INFO   Processed transaction for Lobster - Canned Premium. Applied discounts: 9.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 594.3537
+2025-05-18T21:14:47.512745   INFO   Processed transaction for Tomatoes - Heirloom. Applied discounts: 28.0, 5.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 215.3298
+2025-05-18T21:14:47.512877   INFO   Processed transaction for Bread - Sour Batard. Applied discounts: 21.0%. Final discount: 21.0%. Final price: 737.7652
+2025-05-18T21:14:47.513128   INFO   Processed transaction for Cheese - Briedanish. Applied discounts: 26.0, 10.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 1930.5506
+2025-05-18T21:14:47.513754   INFO   Processed transaction for Oil - Sunflower. Applied discounts: 14.0, 7.0, 5.0, 5.0%. Final discount: 10.5%. Final price: 483.15680000000003
+2025-05-18T21:14:47.513814   INFO   Processed transaction for Milkettes - 2%. Applied discounts: 16.0, 10.0, 5.0%. Final discount: 13.0%. Final price: 2462.3871
+2025-05-18T21:14:47.514051   INFO   Processed transaction for Mushroom - Shitake Dry. Applied discounts: 14.0, 5.0, 5.0, 5.0%. Final discount: 9.5%. Final price: 1116.408
+2025-05-18T21:14:47.514134   INFO   Processed transaction for Langers - Ruby Red Grapfruit. Applied discounts: 19.0, 10.0, 5.0%. Final discount: 14.5%. Final price: 3472.84755
+2025-05-18T21:14:47.514215   INFO   Processed transaction for Coffee - Frthy Coffee Crisp. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 2804.7711999999997
+2025-05-18T21:14:47.514324   INFO   Processed transaction for Wine - Touraine Azay - Le - Rideau. Applied discounts: 17.0, 5.0, 5.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 1597.1138999999998
+2025-05-18T21:14:47.514400   INFO   Processed transaction for Nantucket - 518ml. Applied discounts: 29.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 22.0%. Final price: 1667.2188
+2025-05-18T21:14:47.514441   INFO   Processed transaction for Bar Mix - Lime. Applied discounts: 21.0, 7.0, 5.0%. Final discount: 14.0%. Final price: 747.684
+2025-05-18T21:14:47.514474   INFO   Processed transaction for Brandy Apricot. Applied discounts: 5.0%. Final discount: 5.0%. Final price: 447.83
+2025-05-18T21:14:47.514520   INFO   Processed transaction for Bread - English Muffin. Applied discounts: 24.0, 7.0, 5.0%. Final discount: 15.5%. Final price: 1427.3064
+2025-05-18T21:14:47.514558   INFO   Processed transaction for Chevril. Applied discounts: 4.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 479.8079
+2025-05-18T21:14:47.514591   INFO   Processed transaction for Cocoa Feuilletine. Applied discounts: 9.0%. Final discount: 9.0%. Final price: 173.3004
+2025-05-18T21:14:47.514641   INFO   Processed transaction for Spinach - Packaged. Applied discounts: 7.0%. Final discount: 7.0%. Final price: 422.9268
+2025-05-18T21:14:47.514689   INFO   Processed transaction for Tea - Jasmin Green. Applied discounts: 6.0, 5.0, 5.0%. Final discount: 5.5%. Final price: 384.76619999999997
+2025-05-18T21:14:47.514720   INFO   Processed transaction for The Pop Shoppe - Root Beer. Applied discounts: 29.0%. Final discount: 29.0%. Final price: 667.7692
+2025-05-18T21:14:47.514774   INFO   Processed transaction for Onions - Cippolini. Applied discounts: 24.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 2154.3007500000003
+2025-05-18T21:14:47.514831   INFO   Processed transaction for Wine - Magnotta - Cab Franc. Applied discounts: 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 2758.8348000000005
+2025-05-18T21:14:47.514885   INFO   Processed transaction for Chicken - Tenderloin. Applied discounts: 29.0, 10.0, 5.0%. Final discount: 19.5%. Final price: 1159.56225
+2025-05-18T21:14:47.514950   INFO   Processed transaction for Scallops - 10/20. Applied discounts: 5.0%. Final discount: 5.0%. Final price: 130.302
+2025-05-18T21:14:47.515008   INFO   Processed transaction for Wine - Vovray Sec Domaine Huet. Applied discounts: 8.0, 5.0%. Final discount: 6.5%. Final price: 438.0849
+2025-05-18T21:14:47.515051   INFO   Processed transaction for Lime Cordial - Roses. Applied discounts: 16.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 15.5%. Final price: 1928.99135
+2025-05-18T21:14:47.515089   INFO   Processed transaction for Muffin Hinge 117n. Applied discounts: 28.0, 5.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 1413.8888
+2025-05-18T21:14:47.515127   INFO   Processed transaction for Beer - True North Lager. Applied discounts: 13.0, 10.0, 5.0%. Final discount: 11.5%. Final price: 2851.9302
+2025-05-18T21:14:47.515186   INFO   Processed transaction for Wine - Red Pinot Noir Chateau. Applied discounts: 10.0, 5.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 1079.919
+2025-05-18T21:14:47.515251   INFO   Processed transaction for Tomato Puree. Applied discounts: 22.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 1222.6536
+2025-05-18T21:14:47.515302   INFO   Processed transaction for Pork - Ham Virginia. Applied discounts: 16.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 18.0%. Final price: 1916.75
+2025-05-18T21:14:47.515354   INFO   Processed transaction for Jerusalem Artichoke. Applied discounts: 18.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 19.0%. Final price: 1362.6144
+2025-05-18T21:14:47.515406   INFO   Processed transaction for Wine - Touraine Azay - Le - Rideau. Applied discounts: 11.0, 5.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 10.5%. Final price: 405.0949
+2025-05-18T21:14:47.515445   INFO   Processed transaction for Corn - Cream Canned. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 261.1455
+2025-05-18T21:14:47.515492   INFO   Processed transaction for Banana - Green. Applied discounts: 2.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 118.9305
+2025-05-18T21:14:47.515561   INFO   Processed transaction for Wine - White Ej. Applied discounts: 27.0, 5.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 21.0%. Final price: 2514.096
+2025-05-18T21:14:47.515674   INFO   Processed transaction for Beer - Fruli. Applied discounts: 17.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 16.0%. Final price: 2687.7396
+2025-05-18T21:14:47.515735   INFO   Processed transaction for Wine - Casillero Del Diablo. Applied discounts: 22.0, 5.0, 5.0, 5.0%. Final discount: 13.5%. Final price: 98.09100000000001
+2025-05-18T21:14:47.516978   INFO   Processed transaction for Whmis Spray Bottle Graduated. Applied discounts: 23.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 16.5%. Final price: 1176.8490000000002
+2025-05-18T21:14:47.517045   INFO   Processed transaction for Shrimp - 16 - 20 Cooked Peeled. Applied discounts: 5.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2072.982
+2025-05-18T21:14:47.517106   INFO   Processed transaction for Water - Mineral Natural. Applied discounts: 6.0, 7.0, 5.0, 5.0%. Final discount: 6.5%. Final price: 1868.2048
+2025-05-18T21:14:47.517155   INFO   Processed transaction for Versatainer Nc - 8288. Applied discounts: 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 539.889
+2025-05-18T21:14:47.517203   INFO   Processed transaction for Wine - Tribal Sauvignon. Applied discounts: 19.0, 5.0, 10.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 732.17925
+2025-05-18T21:14:47.517254   INFO   Processed transaction for Beef - Diced. Applied discounts: 29.0, 7.0, 5.0%. Final discount: 18.0%. Final price: 2069.3520000000003
+2025-05-18T21:14:47.517298   INFO   Processed transaction for Wine - Shiraz South Eastern. Applied discounts: 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 2550.632
+2025-05-18T21:14:47.517349   INFO   Processed transaction for Fruit Salad Deluxe. Applied discounts: 26.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 20.5%. Final price: 1572.0012000000002
+2025-05-18T21:14:47.517398   INFO   Processed transaction for Pepper - Paprika Spanish. Applied discounts: 8.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 9.0%. Final price: 459.5955000000001
+2025-05-18T21:14:47.517439   INFO   Processed transaction for Squid - Breaded. Applied discounts: 21.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 13.832999999999998
+2025-05-18T21:14:47.517475   INFO   Processed transaction for Beef - Kobe Striploin. Applied discounts: 20.0%. Final discount: 20.0%. Final price: 918.9199999999998
+2025-05-18T21:14:47.517516   INFO   Processed transaction for Salmon - Atlantic No Skin. Applied discounts: 19.0, 7.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 942.5754000000001
+2025-05-18T21:14:47.517559   INFO   Processed transaction for Juice - Cranberry 341 Ml. Applied discounts: 15.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 12.5%. Final price: 167.4225
+2025-05-18T21:14:47.517601   INFO   Processed transaction for Skirt - 29 Foot. Applied discounts: 24.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 36.893499999999996
+2025-05-18T21:14:47.517640   INFO   Processed transaction for Lamb - Whole Frozen. Applied discounts: 12.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 1978.12935
+2025-05-18T21:14:47.517680   INFO   Processed transaction for Cheese - Havarti Roasted Garlic. Applied discounts: 25.0, 10.0, 5.0, 5.0%. Final discount: 17.5%. Final price: 593.0595
+2025-05-18T21:14:47.517721   INFO   Processed transaction for Cheese - Goat. Applied discounts: 25.0, 10.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 20.0%. Final price: 729.008
+2025-05-18T21:14:47.517760   INFO   Processed transaction for Temperature Recording Station. Applied discounts: 23.0, 7.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 1733.8555
+2025-05-18T21:14:47.517794   INFO   Processed transaction for Blueberries - Frozen. Applied discounts: 3.0%. Final discount: 3.0%. Final price: 415.04359999999997
+2025-05-18T21:14:47.517844   INFO   Processed transaction for Shallots. Applied discounts: 26.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 829.452
+2025-05-18T21:14:47.517918   INFO   Processed transaction for Bar Mix - Lemon. Applied discounts: 5.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 621.927
+2025-05-18T21:14:47.517963   INFO   Processed transaction for Vinegar - Balsamic White. Applied discounts: 28.0, 5.0%. Final discount: 16.5%. Final price: 322.01775000000004
+2025-05-18T21:14:47.518013   INFO   Processed transaction for Pepper - Chipotle Canned. Applied discounts: 23.0, 5.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 1262.0844
+2025-05-18T21:14:47.518063   INFO   Processed transaction for Cheese - Marble. Applied discounts: 10.0, 10.0%. Final discount: 10.0%. Final price: 109.944
+2025-05-18T21:14:47.518106   INFO   Processed transaction for Sauce - Ranch Dressing. Applied discounts: 27.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 583.5060000000001
+2025-05-18T21:14:47.518148   INFO   Processed transaction for Milk - Chocolate 250 Ml. Applied discounts: 23.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 118.7144
+2025-05-18T21:14:47.518192   INFO   Processed transaction for Soup - Base Broth Chix. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 1704.1765500000001
+2025-05-18T21:14:47.518233   INFO   Processed transaction for Beef - Kindney Whole. Applied discounts: 8.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.5%. Final price: 1708.39515
+2025-05-18T21:14:47.518278   INFO   Processed transaction for Bread - White Sliced. Applied discounts: 16.0, 10.0, 5.0%. Final discount: 13.0%. Final price: 1172.412
+2025-05-18T21:14:47.518341   INFO   Processed transaction for Wine - Pinot Noir Stoneleigh. Applied discounts: 4.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1102.4608
+2025-05-18T21:14:47.518617   INFO   Processed transaction for Soup Campbells Split Pea And Ham. Applied discounts: 25.0, 10.0, 5.0%. Final discount: 17.5%. Final price: 2911.92
+2025-05-18T21:14:47.518678   INFO   Processed transaction for Pike - Frozen Fillet. Applied discounts: 2.0%. Final discount: 2.0%. Final price: 726.0917999999999
+2025-05-18T21:14:47.518728   INFO   Processed transaction for Edible Flower - Mixed. Applied discounts: 16.0, 5.0, 5.0, 5.0%. Final discount: 10.5%. Final price: 149.1249
+2025-05-18T21:14:47.518802   INFO   Processed transaction for Bread - Corn Muffaleta Onion. Applied discounts: 18.0, 7.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 572.355
+2025-05-18T21:14:47.518849   INFO   Processed transaction for Ginger - Fresh. Applied discounts: 17.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 16.0%. Final price: 1193.9928
+2025-05-18T21:14:47.518907   INFO   Processed transaction for Doilies - 7 Paper. Applied discounts: 6.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 1083.6345000000001
+2025-05-18T21:14:47.518950   INFO   Processed transaction for Onions - White. Applied discounts: 12.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 339.36435
+2025-05-18T21:14:47.518991   INFO   Processed transaction for Container - Hngd Cll Blk 7x7x3. Applied discounts: 22.0, 7.0, 5.0%. Final discount: 14.5%. Final price: 1388.2806
+2025-05-18T21:14:47.519044   INFO   Processed transaction for Oxtail - Cut. Applied discounts: 17.0, 10.0, 5.0%. Final discount: 13.5%. Final price: 699.74175
+2025-05-18T21:14:47.519096   INFO   Processed transaction for Juice Peach Nectar. Applied discounts: 20.0, 10.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 3018.5625
+2025-05-18T21:14:47.519131   INFO   Processed transaction for Lamb Shoulder Boneless Nz. Applied discounts: 7.0%. Final discount: 7.0%. Final price: 83.421
+2025-05-18T21:14:47.519194   INFO   Processed transaction for Crab - Claws Snow 16 - 24. Applied discounts: 24.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 265.8324
+2025-05-18T21:14:47.519230   INFO   Processed transaction for Muffin - Mix - Mango Sour Cherry. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 102.39099999999999
+2025-05-18T21:14:47.519279   INFO   Processed transaction for Soup - French Can Pea. Applied discounts: 10.0, 7.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 1352.0955000000001
+2025-05-18T21:14:47.519353   INFO   Processed transaction for Pepper - Gypsy Pepper. Applied discounts: 18.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 14.0%. Final price: 1070.0980000000002
+2025-05-18T21:14:47.519398   INFO   Processed transaction for Wooden Mop Handle. Applied discounts: 22.0, 10.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 3157.5936
+2025-05-18T21:14:47.519436   INFO   Processed transaction for Chilli Paste Ginger Garlic. Applied discounts: 5.0%. Final discount: 5.0%. Final price: 47.633
+2025-05-18T21:14:47.519584   INFO   Processed transaction for Tomatoes - Roma. Applied discounts: 13.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 14.0%. Final price: 791.9912
+2025-05-18T21:14:47.519852   INFO   Processed transaction for Dried Peach. Applied discounts: 19.0, 10.0, 5.0%. Final discount: 14.5%. Final price: 2802.90375
+2025-05-18T21:14:47.519977   INFO   Processed transaction for Lumpfish Black. Applied discounts: 21.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 854.6445
+2025-05-18T21:14:47.520231   INFO   Processed transaction for Lettuce Romaine Chopped. Applied discounts: 22.0, 7.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 1577.4407999999999
+2025-05-18T21:14:47.520303   INFO   Processed transaction for Danishes - Mini Raspberry. Applied discounts: 8.0, 7.0, 5.0%. Final discount: 7.5%. Final price: 1812.741
+2025-05-18T21:14:47.520361   INFO   Processed transaction for Crush - Cream Soda. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 165.5185
+2025-05-18T21:14:47.520407   INFO   Processed transaction for Cream - 35%. Applied discounts: 18.0, 7.0, 5.0%. Final discount: 12.5%. Final price: 920.7624999999999
+2025-05-18T21:14:47.520462   INFO   Processed transaction for Sauerkraut. Applied discounts: 24.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 1855.6055
+2025-05-18T21:14:47.520506   INFO   Processed transaction for Cup Translucent 9 Oz. Applied discounts: 15.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 15.0%. Final price: 2215.1850000000004
+2025-05-18T21:14:47.520554   INFO   Processed transaction for Cheese - Parmesan Grated. Applied discounts: 9.0, 10.0, 5.0%. Final discount: 9.5%. Final price: 923.1
+2025-05-18T21:14:47.520598   INFO   Processed transaction for Pastry - Mini French Pastries. Applied discounts: 29.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 533.856
+2025-05-18T21:14:47.520640   INFO   Processed transaction for Cape Capensis - Fillet. Applied discounts: 21.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 15.5%. Final price: 215.48345
+2025-05-18T21:14:47.520681   INFO   Processed transaction for Ocean Spray - Ruby Red. Applied discounts: 23.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 495.86740000000003
+2025-05-18T21:14:47.520726   INFO   Processed transaction for Veal - Insides Grains. Applied discounts: 19.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 1536.6384
+2025-05-18T21:14:47.520773   INFO   Processed transaction for Squid - Breaded. Applied discounts: 8.0%. Final discount: 8.0%. Final price: 241.07680000000002
+2025-05-18T21:14:47.520812   INFO   Processed transaction for Initation Crab Meat. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 560.253
+2025-05-18T21:14:47.520855   INFO   Processed transaction for Pate - Liver. Applied discounts: 29.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 24.5%. Final price: 1187.62255
+2025-05-18T21:14:47.520905   INFO   Processed transaction for Pasta - Penne Rigate Dry. Applied discounts: 20.0, 10.0, 5.0%. Final discount: 15.0%. Final price: 3011.856
+2025-05-18T21:14:47.520967   INFO   Processed transaction for Samosa - Veg. Applied discounts: 18.0, 7.0, 5.0%. Final discount: 12.5%. Final price: 2658.2237499999997
+2025-05-18T21:14:47.521022   INFO   Processed transaction for Trueblue - Blueberry 12x473ml. Applied discounts: 4.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 599.8995
+2025-05-18T21:14:47.521067   INFO   Processed transaction for Wine - German Riesling. Applied discounts: 27.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 21.0%. Final price: 2556.1002999999996
+2025-05-18T21:14:47.521232   INFO   Processed transaction for Amarula Cream. Applied discounts: 21.0%. Final discount: 21.0%. Final price: 378.47319999999996
+2025-05-18T21:14:47.521296   INFO   Processed transaction for Pastrami. Applied discounts: %. Final discount: 0.0%. Final price: 106.59
+2025-05-18T21:14:47.521335   INFO   Processed transaction for Blue Curacao - Marie Brizard. Applied discounts: 12.0%. Final discount: 12.0%. Final price: 463.58399999999995
+2025-05-18T21:14:47.521380   INFO   Processed transaction for Straws - Cocktale. Applied discounts: 24.0, 7.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 32.8705
+2025-05-18T21:14:47.521422   INFO   Processed transaction for Rabbit - Frozen. Applied discounts: 20.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 17.5%. Final price: 1603.8165
+2025-05-18T21:14:47.521464   INFO   Processed transaction for Wine - Domaine Boyar Royal. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 688.275
+2025-05-18T21:14:47.521513   INFO   Processed transaction for Tomatoes - Roma. Applied discounts: 24.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 823.023
+2025-05-18T21:14:47.521554   INFO   Processed transaction for Pork - Loin Bone - In. Applied discounts: 8.0, 10.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 456.21029999999996
+2025-05-18T21:14:47.521587   INFO   Processed transaction for Beef - Ox Tongue Pickled. Applied discounts: 25.0, 10.0, 5.0%. Final discount: 17.5%. Final price: 2519.17875
+2025-05-18T21:14:47.521617   INFO   Processed transaction for Cup - Translucent 7 Oz Clear. Applied discounts: 11.0%. Final discount: 11.0%. Final price: 113.95559999999999
+2025-05-18T21:14:47.521651   INFO   Processed transaction for Canadian Emmenthal. Applied discounts: 13.0, 7.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 350.658
+2025-05-18T21:14:47.521690   INFO   Processed transaction for Propel Sport Drink. Applied discounts: 1.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2085.202
+2025-05-18T21:14:47.521723   INFO   Processed transaction for Langers - Mango Nectar. Applied discounts: 2.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 1379.72
+2025-05-18T21:14:47.521755   INFO   Processed transaction for Sour Puss Sour Apple. Applied discounts: 13.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 215.2787
+2025-05-18T21:14:47.521787   INFO   Processed transaction for Pomello. Applied discounts: 6.0, 7.0, 5.0%. Final discount: 6.5%. Final price: 734.0404500000001
+2025-05-18T21:14:47.521822   INFO   Processed transaction for Cheese Cloth No 100. Applied discounts: 2.0, 10.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 2690.5899999999997
+2025-05-18T21:14:47.521864   INFO   Processed transaction for Bread Base - Italian. Applied discounts: 18.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 14.0%. Final price: 1845.5256
+2025-05-18T21:14:47.521897   INFO   Processed transaction for Soup - Campbells Lentil. Applied discounts: 27.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 56.4228
+2025-05-18T21:14:47.521930   INFO   Processed transaction for Pepper - Black Crushed. Applied discounts: 13.0, 7.0, 5.0%. Final discount: 10.0%. Final price: 1197.729
+2025-05-18T21:14:47.522129   INFO   Processed transaction for Salt - Seasoned. Applied discounts: 26.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 124.9248
+2025-05-18T21:14:47.522190   INFO   Processed transaction for Cheese - La Sauvagine. Applied discounts: 13.0, 10.0, 7.0, 5.0%. Final discount: 11.5%. Final price: 1818.321
+2025-05-18T21:14:47.522240   INFO   Processed transaction for Wine - Pinot Noir Latour. Applied discounts: 7.0, 5.0%. Final discount: 6.0%. Final price: 112.9316
+2025-05-18T21:14:47.522285   INFO   Processed transaction for Sprouts - Peppercress. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 11.88625
+2025-05-18T21:14:47.522327   INFO   Processed transaction for Numi - Assorted Teas. Applied discounts: 12.0, 7.0, 5.0%. Final discount: 9.5%. Final price: 801.287
+2025-05-18T21:14:47.522366   INFO   Processed transaction for Sambuca Cream. Applied discounts: 24.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 732.5178000000001
+2025-05-18T21:14:47.522735   INFO   Processed transaction for Lemonade - Mandarin 591 Ml. Applied discounts: 22.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 1727.0819999999999
+2025-05-18T21:14:47.522813   INFO   Processed transaction for Melon - Watermelon Seedless. Applied discounts: 2.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 388.408
+2025-05-18T21:14:47.522864   INFO   Processed transaction for Rice Paper. Applied discounts: 9.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.0%. Final price: 629.0592
+2025-05-18T21:14:47.522906   INFO   Processed transaction for Fruit Salad Deluxe. Applied discounts: 26.0, 5.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 1609.2856000000002
+2025-05-18T21:14:47.522952   INFO   Processed transaction for Mortadella. Applied discounts: 8.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 9.0%. Final price: 1257.7656000000002
+2025-05-18T21:14:47.522991   INFO   Processed transaction for Sausage - Meat. Applied discounts: 6.0, 5.0, 5.0%. Final discount: 5.5%. Final price: 116.7642
+2025-05-18T21:14:47.523026   INFO   Processed transaction for Wine - Fino Tio Pepe Gonzalez. Applied discounts: 5.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 1091.65725
+2025-05-18T21:14:47.523068   INFO   Processed transaction for Cheese - St. Andre. Applied discounts: 1.0, 10.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 10.0%. Final price: 1057.266
+2025-05-18T21:14:47.523103   INFO   Processed transaction for Oil - Coconut. Applied discounts: 15.0, 10.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 1802.70125
+2025-05-18T21:14:47.523136   INFO   Processed transaction for Soup - Campbells Broccoli. Applied discounts: 16.0, 5.0%. Final discount: 10.5%. Final price: 128.90685
+2025-05-18T21:14:47.523177   INFO   Processed transaction for Cranberries - Dry. Applied discounts: 10.0, 5.0%. Final discount: 7.5%. Final price: 387.3345
+2025-05-18T21:14:47.523211   INFO   Processed transaction for Ezy Change Mophandle. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 985.188
+2025-05-18T21:14:47.523253   INFO   Processed transaction for Gherkin. Applied discounts: 26.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 246.1968
+2025-05-18T21:14:47.523287   INFO   Processed transaction for Carbonated Water - Raspberry. Applied discounts: 23.0, 7.0, 5.0%. Final discount: 15.0%. Final price: 888.1139999999999
+2025-05-18T21:14:47.523319   INFO   Processed transaction for Cornstarch. Applied discounts: 29.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 1628.5264
+2025-05-18T21:14:47.523377   INFO   Processed transaction for Iced Tea Concentrate. Applied discounts: 6.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.0%. Final price: 899.9808
+2025-05-18T21:14:47.523533   INFO   Processed transaction for Pasta - Rotini Colour Dry. Applied discounts: 24.0%. Final discount: 24.0%. Final price: 61.1952
+2025-05-18T21:14:47.523669   INFO   Processed transaction for Sour Puss Raspberry. Applied discounts: 6.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.0%. Final price: 282.03520000000003
+2025-05-18T21:14:47.523767   INFO   Processed transaction for Bread Country Roll. Applied discounts: 5.0%. Final discount: 5.0%. Final price: 142.823
+2025-05-18T21:14:47.523873   INFO   Processed transaction for Apple - Fuji. Applied discounts: 25.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 20.0%. Final price: 196.20000000000002
+2025-05-18T21:14:47.523975   INFO   Processed transaction for Soup - Boston Clam Chowder. Applied discounts: 19.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 785.2416
+2025-05-18T21:14:47.524068   INFO   Processed transaction for Trout - Smoked. Applied discounts: 6.0%. Final discount: 6.0%. Final price: 541.2896000000001
+2025-05-18T21:14:47.524166   INFO   Processed transaction for Beer - Camerons Cream Ale. Applied discounts: 18.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 14.0%. Final price: 493.1240000000001
+2025-05-18T21:14:47.524263   INFO   Processed transaction for Juice - Orange 341 Ml. Applied discounts: 10.0, 10.0, 5.0%. Final discount: 10.0%. Final price: 2733.039
+2025-05-18T21:14:47.524426   INFO   Processed transaction for Pike - Frozen Fillet. Applied discounts: 17.0%. Final discount: 17.0%. Final price: 199.1336
+2025-05-18T21:14:47.524486   INFO   Processed transaction for Crab - Imitation Flakes. Applied discounts: 27.0%. Final discount: 27.0%. Final price: 150.8545
+2025-05-18T21:14:47.524546   INFO   Processed transaction for Bag Clear 10 Lb. Applied discounts: 10.0, 7.0, 5.0%. Final discount: 8.5%. Final price: 488.1708
+2025-05-18T21:14:47.524589   INFO   Processed transaction for Wine - Mas Chicet Rose Vintage. Applied discounts: 25.0, 5.0, 7.0, 5.0%. Final discount: 16.0%. Final price: 859.1519999999999
+2025-05-18T21:14:47.524630   INFO   Processed transaction for Yoghurt Tubes. Applied discounts: 24.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 22.0%. Final price: 1995.2322
+2025-05-18T21:14:47.524672   INFO   Processed transaction for Milk - Skim. Applied discounts: 28.0, 7.0, 5.0%. Final discount: 17.5%. Final price: 811.8825
+2025-05-18T21:14:47.524707   INFO   Processed transaction for Toothpick Frilled. Applied discounts: 27.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 419.6136
+2025-05-18T21:14:47.524754   INFO   Processed transaction for Table Cloth 120 Round White. Applied discounts: 29.0%. Final discount: 29.0%. Final price: 449.075
+2025-05-18T21:14:47.524808   INFO   Processed transaction for Vinegar - Balsamic. Applied discounts: 1.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 2727.4939999999997
+2025-05-18T21:14:47.524942   INFO   Processed transaction for Canadian Emmenthal. Applied discounts: 14.0, 10.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 2991.12
+2025-05-18T21:14:47.525089   INFO   Processed transaction for Cookies - Oreo 4 Pack. Applied discounts: 20.0%. Final discount: 20.0%. Final price: 268.608
+2025-05-18T21:14:47.525170   INFO   Processed transaction for Wine - Red Cooking. Applied discounts: 1.0, 5.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 1326.9792
+2025-05-18T21:14:47.525348   INFO   Processed transaction for Appetizer - Asian Shrimp Roll. Applied discounts: 23.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.0%. Final price: 163.1988
+2025-05-18T21:14:47.525497   INFO   Processed transaction for Rum - Cream Amarula. Applied discounts: 16.0, 5.0%. Final discount: 10.5%. Final price: 120.48490000000001
+2025-05-18T21:14:47.525652   INFO   Processed transaction for Lettuce - Frisee. Applied discounts: 24.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 428.84235
+2025-05-18T21:14:47.525731   INFO   Processed transaction for Broom And Broom Rack White. Applied discounts: 1.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 594.225
+2025-05-18T21:14:47.525899   INFO   Processed transaction for Squash - Acorn. Applied discounts: 8.0, 7.0, 5.0%. Final discount: 7.5%. Final price: 1308.912
+2025-05-18T21:14:47.526005   INFO   Processed transaction for Water - Spring Water 355 Ml. Applied discounts: 9.0, 7.0, 5.0%. Final discount: 8.0%. Final price: 2858.2007999999996
+2025-05-18T21:14:47.526057   INFO   Processed transaction for Beans - Black Bean Dry. Applied discounts: 13.0, 10.0, 5.0%. Final discount: 11.5%. Final price: 409.5249
+2025-05-18T21:14:47.526105   INFO   Processed transaction for Gatorade - Orange. Applied discounts: 16.0, 10.0, 5.0%. Final discount: 13.0%. Final price: 1249.8768
+2025-05-18T21:14:47.526152   INFO   Processed transaction for Beer - Labatt Blue. Applied discounts: 5.0, 5.0%. Final discount: 5.0%. Final price: 225.83399999999997
+2025-05-18T21:14:47.526190   INFO   Processed transaction for Soup - Campbells Beef Strogonoff. Applied discounts: 19.0, 5.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 1574.1
+2025-05-18T21:14:47.526225   INFO   Processed transaction for Pears - Fiorelle. Applied discounts: 13.0, 7.0, 5.0%. Final discount: 10.0%. Final price: 2313.792
+2025-05-18T21:14:47.526270   INFO   Processed transaction for Pumpkin - Seed. Applied discounts: 13.0, 7.0, 5.0%. Final discount: 10.0%. Final price: 2243.484
+2025-05-18T21:14:47.526332   INFO   Processed transaction for Cookie Dough - Peanut Butter. Applied discounts: 7.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 2428.6587
+2025-05-18T21:14:47.526385   INFO   Processed transaction for Cheese - Le Cheve Noir. Applied discounts: 1.0, 10.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 12.5%. Final price: 395.71875
+2025-05-18T21:14:47.526518   INFO   Processed transaction for Seaweed Green Sheets. Applied discounts: 9.0, 5.0%. Final discount: 7.0%. Final price: 431.6595
+2025-05-18T21:14:47.526644   INFO   Processed transaction for Truffle Paste. Applied discounts: 15.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 15.0%. Final price: 628.8554999999999
+2025-05-18T21:14:47.526765   INFO   Processed transaction for Mcguinness - Blue Curacao. Applied discounts: 15.0, 10.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 1507.1349999999998
+2025-05-18T21:14:47.526875   INFO   Processed transaction for Sugar - White Packet. Applied discounts: 2.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 497.553
+2025-05-18T21:14:47.526995   INFO   Processed transaction for Mushroom - Porcini Frozen. Applied discounts: 4.0%. Final discount: 4.0%. Final price: 161.7024
+2025-05-18T21:14:47.527093   INFO   Processed transaction for Bread - Multigrain Loaf. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 21.021
+2025-05-18T21:14:47.527432   INFO   Processed transaction for Wine - Magnotta White. Applied discounts: 16.0, 5.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 13.0%. Final price: 1296.0216
+2025-05-18T21:14:47.527877   INFO   Processed transaction for Southern Comfort. Applied discounts: 15.0, 7.0, 5.0%. Final discount: 11.0%. Final price: 2237.46
+2025-05-18T21:14:47.527933   INFO   Processed transaction for Bread Base - Italian. Applied discounts: 2.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2434.4496
+2025-05-18T21:14:47.527993   INFO   Processed transaction for Wine - Ruffino Chianti. Applied discounts: 26.0, 5.0, 7.0, 5.0%. Final discount: 16.5%. Final price: 2494.98
+2025-05-18T21:14:47.528042   INFO   Processed transaction for Rice - 7 Grain Blend. Applied discounts: 26.0, 5.0%. Final discount: 15.5%. Final price: 234.4368
+2025-05-18T21:14:47.528094   INFO   Processed transaction for Split Peas - Yellow Dry. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 194.73499999999999
+2025-05-18T21:14:47.528136   INFO   Processed transaction for Oil - Olive Bertolli. Applied discounts: 17.0, 5.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 193.0232
+2025-05-18T21:14:47.528186   INFO   Processed transaction for Lamb - Whole Head Off. Applied discounts: 24.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 581.3984
+2025-05-18T21:14:47.528227   INFO   Processed transaction for Basil - Dry Rubbed. Applied discounts: 6.0, 7.0, 5.0%. Final discount: 6.5%. Final price: 817.4705
+2025-05-18T21:14:47.528267   INFO   Processed transaction for Kiwi Gold Zespri. Applied discounts: %. Final discount: 0.0%. Final price: 35.76
+2025-05-18T21:14:47.528308   INFO   Processed transaction for Cheese - Marble. Applied discounts: 8.0, 10.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 112.6216
+2025-05-18T21:14:47.528348   INFO   Processed transaction for Maple Syrup. Applied discounts: 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 892.53
+2025-05-18T21:14:47.528407   INFO   Processed transaction for Mushroom - Shitake Fresh. Applied discounts: 12.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 1040.6843999999999
+2025-05-18T21:14:47.528449   INFO   Processed transaction for Wine - Tio Pepe Sherry Fino. Applied discounts: 20.0, 5.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 1404.3400000000001
+2025-05-18T21:14:47.528486   INFO   Processed transaction for Bread - Italian Roll With Herbs. Applied discounts: 4.0%. Final discount: 4.0%. Final price: 344.9088
+2025-05-18T21:14:47.528529   INFO   Processed transaction for Sausage - Meat. Applied discounts: 18.0, 5.0, 5.0%. Final discount: 11.5%. Final price: 209.6919
+2025-05-18T21:14:47.528575   INFO   Processed transaction for Cheese - Stilton. Applied discounts: 6.0, 10.0, 7.0, 5.0%. Final discount: 8.5%. Final price: 1386.225
+2025-05-18T21:14:47.528642   INFO   Processed transaction for Coconut - Whole. Applied discounts: 21.0, 5.0%. Final discount: 13.0%. Final price: 357.65700000000004
+2025-05-18T21:14:47.528674   INFO   Processed transaction for Sauce Bbq Smokey. Applied discounts: 27.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 1439.9616
+2025-05-18T21:14:47.528718   INFO   Processed transaction for Soup - Campbells Beef Noodle. Applied discounts: 7.0%. Final discount: 7.0%. Final price: 138.57
+2025-05-18T21:14:47.528757   INFO   Processed transaction for Pop - Club Soda Can. Applied discounts: 8.0, 5.0, 5.0%. Final discount: 6.5%. Final price: 291.64520000000005
+2025-05-18T21:14:47.528789   INFO   Processed transaction for Vinegar - Balsamic. Applied discounts: 13.0, 5.0%. Final discount: 9.0%. Final price: 189.43470000000002
+2025-05-18T21:14:47.528822   INFO   Processed transaction for Soup - Verve - Chipotle Chicken. Applied discounts: 4.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 1247.4551999999999
+2025-05-18T21:14:47.528859   INFO   Processed transaction for Wasabi Powder. Applied discounts: 16.0, 5.0%. Final discount: 10.5%. Final price: 135.0913
+2025-05-18T21:14:47.528908   INFO   Processed transaction for Beans - Turtle Black Dry. Applied discounts: 1.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 448.292
+2025-05-18T21:14:47.528969   INFO   Processed transaction for Pastry - Mini French Pastries. Applied discounts: 21.0%. Final discount: 21.0%. Final price: 177.4735
+2025-05-18T21:14:47.529053   INFO   Processed transaction for Muffin Mix - Oatmeal. Applied discounts: %. Final discount: 0.0%. Final price: 596.44
+2025-05-18T21:14:47.529097   INFO   Processed transaction for Pasta - Cheese / Spinach Bauletti. Applied discounts: 23.0, 10.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 16.5%. Final price: 71.643
+2025-05-18T21:14:47.529144   INFO   Processed transaction for 7up Diet 355 Ml. Applied discounts: 7.0, 5.0, 5.0%. Final discount: 6.0%. Final price: 56.174400000000006
+2025-05-18T21:14:47.529174   INFO   Processed transaction for Soup Campbells Turkey Veg.. Applied discounts: 13.0%. Final discount: 13.0%. Final price: 260.21700000000004
+2025-05-18T21:14:47.529206   INFO   Processed transaction for Muffin - Zero Transfat. Applied discounts: 2.0, 50.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 32.5%. Final price: 495.32174999999995
+2025-05-18T21:14:47.529238   INFO   Processed transaction for Rum - White Gg White. Applied discounts: 21.0, 10.0, 5.0%. Final discount: 15.5%. Final price: 3316.5912
+2025-05-18T21:14:47.529270   INFO   Processed transaction for Arizona - Green Tea. Applied discounts: 27.0, 10.0, 5.0, 5.0%. Final discount: 18.5%. Final price: 2993.3320000000003
+2025-05-18T21:14:47.529313   INFO   Processed transaction for Tart Shells - Sweet 4. Applied discounts: 29.0%. Final discount: 29.0%. Final price: 144.2649
+2025-05-18T21:14:47.529342   INFO   Processed transaction for Bread - Malt. Applied discounts: 17.0, 7.0, 5.0%. Final discount: 12.0%. Final price: 1784.9216
+2025-05-18T21:14:47.529371   INFO   Processed transaction for Milk - Buttermilk. Applied discounts: 6.0%. Final discount: 6.0%. Final price: 627.8824000000001
+2025-05-18T21:14:47.529416   INFO   Processed transaction for Brandy - Orange Mc Guiness. Applied discounts: 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 842.9155
+2025-05-18T21:14:47.529446   INFO   Processed transaction for Wheat - Soft Kernal Of Wheat. Applied discounts: 6.0%. Final discount: 6.0%. Final price: 587.3119999999999
+2025-05-18T21:14:47.529477   INFO   Processed transaction for Snails - Large Canned. Applied discounts: 9.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 12.0%. Final price: 296.91200000000003
+2025-05-18T21:14:47.529529   INFO   Processed transaction for Garbag Bags - Black. Applied discounts: 21.0, 7.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 797.1167999999999
+2025-05-18T21:14:47.529580   INFO   Processed transaction for Persimmons. Applied discounts: 20.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 598.45625
+2025-05-18T21:14:47.529654   INFO   Processed transaction for Salmon Atl.whole 8 - 10 Lb. Applied discounts: 24.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 1039.8904
+2025-05-18T21:14:47.529691   INFO   Processed transaction for Soup - Campbells Mushroom. Applied discounts: 2.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 709.20675
+2025-05-18T21:14:47.529725   INFO   Processed transaction for Soup - Campbells Cream Of. Applied discounts: 8.0%. Final discount: 8.0%. Final price: 413.1904
+2025-05-18T21:14:47.529797   INFO   Processed transaction for Stainless Steel Cleaner Vision. Applied discounts: 2.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 2799.864
+2025-05-18T21:14:47.529839   INFO   Processed transaction for Juice - Ocean Spray Cranberry. Applied discounts: 4.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 1106.2275
+2025-05-18T21:14:47.529873   INFO   Processed transaction for Beets. Applied discounts: 1.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 2002.192
+2025-05-18T21:14:47.529906   INFO   Processed transaction for Fish - Base Bouillion. Applied discounts: 24.0, 5.0, 5.0%. Final discount: 14.5%. Final price: 403.6284
+2025-05-18T21:14:47.529946   INFO   Processed transaction for Bread - Crumbs Bulk. Applied discounts: 23.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.0%. Final price: 453.1059
+2025-05-18T21:14:47.529979   INFO   Processed transaction for Sauce Bbq Smokey. Applied discounts: 25.0, 7.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 105.33599999999998
+2025-05-18T21:14:47.530010   INFO   Processed transaction for Basil - Pesto Sauce. Applied discounts: 8.0, 5.0, 5.0%. Final discount: 6.5%. Final price: 128.6747
+2025-05-18T21:14:47.530044   INFO   Processed transaction for Macaroons - Two Bite Choc. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 56.5462
+2025-05-18T21:14:47.530215   INFO   Processed transaction for Plaintain. Applied discounts: 15.0, 7.0, 5.0, 5.0%. Final discount: 11.0%. Final price: 2336.7751000000003
+2025-05-18T21:14:47.530263   INFO   Processed transaction for Cookies Almond Hazelnut. Applied discounts: 22.0, 5.0%. Final discount: 13.5%. Final price: 165.388
+2025-05-18T21:14:47.530301   INFO   Processed transaction for Pear - Asian. Applied discounts: 7.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 3037.9972
+2025-05-18T21:14:47.530335   INFO   Processed transaction for Long Island Ice Tea. Applied discounts: 23.0, 5.0%. Final discount: 14.0%. Final price: 269.9712
+2025-05-18T21:14:47.530372   INFO   Processed transaction for Cheese - St. Paulin. Applied discounts: 22.0, 10.0%. Final discount: 16.0%. Final price: 37.422
+2025-05-18T21:14:47.530403   INFO   Processed transaction for Plate Pie Foil. Applied discounts: 27.0, 7.0, 5.0, 5.0%. Final discount: 17.0%. Final price: 2309.7074000000002
+2025-05-18T21:14:47.530434   INFO   Processed transaction for Scallops - 20/30. Applied discounts: 28.0, 7.0, 5.0%. Final discount: 17.5%. Final price: 2341.0695
+2025-05-18T21:14:47.530464   INFO   Processed transaction for Lettuce - Spring Mix. Applied discounts: 22.0, 10.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 1965.852
+2025-05-18T21:14:47.530503   INFO   Processed transaction for Rosemary - Dry. Applied discounts: 20.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 17.5%. Final price: 986.3617499999999
+2025-05-18T21:14:47.530532   INFO   Processed transaction for Chicken Breast Halal. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 151.9375
+2025-05-18T21:14:47.530568   INFO   Processed transaction for Nescafe - Frothy French Vanilla. Applied discounts: 26.0, 7.0, 5.0%. Final discount: 16.5%. Final price: 400.5996
+2025-05-18T21:14:47.530599   INFO   Processed transaction for Bread - Raisin Walnut Oval. Applied discounts: 18.0%. Final discount: 18.0%. Final price: 562.3969999999999
+2025-05-18T21:14:47.530659   INFO   Processed transaction for Kahlua. Applied discounts: 19.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 14.5%. Final price: 277.40475
+2025-05-18T21:14:47.530713   INFO   Processed transaction for Bread - Roll Soft White Round. Applied discounts: 28.0, 5.0, 5.0%. Final discount: 16.5%. Final price: 1148.48405
+2025-05-18T21:14:47.530753   INFO   Processed transaction for 7up Diet 355 Ml. Applied discounts: 24.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 1541.9325
+2025-05-18T21:14:47.530790   INFO   Processed transaction for Chinese Foods - Plain Fried Rice. Applied discounts: 21.0, 10.0, 5.0%. Final discount: 15.5%. Final price: 3080.2616000000003
+2025-05-18T21:14:47.530822   INFO   Processed transaction for Chicken - Whole. Applied discounts: 20.0, 10.0, 5.0%. Final discount: 15.0%. Final price: 32.895
+2025-05-18T21:14:47.530853   INFO   Processed transaction for Goldschalger. Applied discounts: 8.0%. Final discount: 8.0%. Final price: 193.2368
+2025-05-18T21:14:47.530882   INFO   Processed transaction for External Supplier. Applied discounts: 10.0%. Final discount: 10.0%. Final price: 642.24
+2025-05-18T21:14:47.530921   INFO   Processed transaction for Wine - Coteaux Du Tricastin Ac. Applied discounts: 28.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 21.5%. Final price: 1652.896
+2025-05-18T21:14:47.530952   INFO   Processed transaction for Vol Au Vents. Applied discounts: 23.0%. Final discount: 23.0%. Final price: 140.8715
+2025-05-18T21:14:47.530984   INFO   Processed transaction for Mushrooms - Honey. Applied discounts: 12.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 1729.4925000000003
+2025-05-18T21:14:47.531023   INFO   Processed transaction for Tomatoes Tear Drop Yellow. Applied discounts: 23.0, 7.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 1603.6439999999998
+2025-05-18T21:14:47.531061   INFO   Processed transaction for Nut - Pecan Halves. Applied discounts: 5.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2023.6132000000002
+2025-05-18T21:14:47.531093   INFO   Processed transaction for Yoplait Drink. Applied discounts: 9.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 389.07480000000004
+2025-05-18T21:14:47.531124   INFO   Processed transaction for Wine - Magnotta - Cab Franc. Applied discounts: 15.0, 5.0, 5.0, 5.0%. Final discount: 10.0%. Final price: 117.531
+2025-05-18T21:14:47.531160   INFO   Processed transaction for Goat - Whole Cut. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 129.03
+2025-05-18T21:14:47.531189   INFO   Processed transaction for Oil - Pumpkinseed. Applied discounts: 22.0%. Final discount: 22.0%. Final price: 185.094
+2025-05-18T21:14:47.531222   INFO   Processed transaction for Cookie Trail Mix. Applied discounts: 24.0, 7.0, 5.0%. Final discount: 15.5%. Final price: 2045.1703999999997
+2025-05-18T21:14:47.531261   INFO   Processed transaction for Veal - Bones. Applied discounts: 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 659.1575
+2025-05-18T21:14:47.531295   INFO   Processed transaction for Goulash Seasoning. Applied discounts: 16.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 15.5%. Final price: 2089.9807499999997
+2025-05-18T21:14:47.531327   INFO   Processed transaction for Buffalo - Striploin. Applied discounts: 3.0, 5.0%. Final discount: 4.0%. Final price: 194.784
+2025-05-18T21:14:47.531357   INFO   Processed transaction for Juice - Lagoon Mango. Applied discounts: 29.0, 7.0, 5.0%. Final discount: 18.0%. Final price: 2494.5466
+2025-05-18T21:14:47.531389   INFO   Processed transaction for Milk - Chocolate 250 Ml. Applied discounts: 24.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 19.5%. Final price: 1293.2808
+2025-05-18T21:14:47.531421   INFO   Processed transaction for Flower - Leather Leaf Fern. Applied discounts: 21.0, 7.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 2110.268
+2025-05-18T21:14:47.531461   INFO   Processed transaction for Fish - Soup Base Bouillon. Applied discounts: 6.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 8.0%. Final price: 791.3195999999999
+2025-05-18T21:14:47.531493   INFO   Processed transaction for Silicone Paper 16.5x24. Applied discounts: 4.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1429.2421000000002
+2025-05-18T21:14:47.531532   INFO   Processed transaction for Red Currants. Applied discounts: 1.0, 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 3274.2594999999997
+2025-05-18T21:14:47.531594   INFO   Processed transaction for Lamb - Shanks. Applied discounts: 17.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 16.0%. Final price: 2422.3248
+2025-05-18T21:14:47.531630   INFO   Processed transaction for Coriander - Seed. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 844.71
+2025-05-18T21:14:47.531671   INFO   Processed transaction for Pepper - Sorrano. Applied discounts: 26.0, 5.0, 5.0%. Final discount: 15.5%. Final price: 1171.93895
+2025-05-18T21:14:47.531704   INFO   Processed transaction for Ecolab - Hobart Upr Prewash Arm. Applied discounts: 8.0, 10.0, 5.0%. Final discount: 9.0%. Final price: 167.7312
+2025-05-18T21:14:47.531737   INFO   Processed transaction for Oil - Coconut. Applied discounts: 5.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 2779.6834
+2025-05-18T21:14:47.531769   INFO   Processed transaction for Juice - Orange 1.89l. Applied discounts: 27.0, 10.0, 5.0, 5.0%. Final discount: 18.5%. Final price: 3215.9248
+2025-05-18T21:14:47.531802   INFO   Processed transaction for Fennel - Seeds. Applied discounts: 21.0, 7.0, 5.0%. Final discount: 14.0%. Final price: 220.59
+2025-05-18T21:14:47.531836   INFO   Processed transaction for Lotus Rootlets - Canned. Applied discounts: 7.0, 10.0, 5.0%. Final discount: 8.5%. Final price: 176.23815000000002
+2025-05-18T21:14:47.531892   INFO   Processed transaction for Chocolate - Chips Compound. Applied discounts: 8.0, 5.0, 5.0, 5.0%. Final discount: 6.5%. Final price: 18.59715
+2025-05-18T21:14:47.531928   INFO   Processed transaction for Bagel - Everything. Applied discounts: 24.0, 7.0, 5.0%. Final discount: 15.5%. Final price: 165.62
+2025-05-18T21:14:47.531961   INFO   Processed transaction for Beef - Sushi Flat Iron Steak. Applied discounts: 15.0, 50.0, 5.0%. Final discount: 32.5%. Final price: 334.125
+2025-05-18T21:14:47.531993   INFO   Processed transaction for Cheese - Colby. Applied discounts: 18.0, 10.0, 5.0, 5.0%. Final discount: 14.0%. Final price: 307.6564
+2025-05-18T21:14:47.532025   INFO   Processed transaction for Bagel - Sesame Seed Presliced. Applied discounts: 3.0, 7.0, 5.0%. Final discount: 6.0%. Final price: 740.25
+2025-05-18T21:14:47.532196   INFO   Processed transaction for Tomatoes - Cherry. Applied discounts: 17.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 16.0%. Final price: 1886.094
+2025-05-18T21:14:47.532265   INFO   Processed transaction for Pastry - Banana Muffin - Mini. Applied discounts: 7.0, 5.0%. Final discount: 6.0%. Final price: 426.6096
+2025-05-18T21:14:47.532312   INFO   Processed transaction for Cheese - Cream Cheese. Applied discounts: 12.0, 10.0, 50.0, 5.0, 5.0%. Final discount: 31.0%. Final price: 476.18280000000004
+2025-05-18T21:14:47.532380   INFO   Processed transaction for Pork Casing. Applied discounts: 19.0, 5.0, 5.0%. Final discount: 12.0%. Final price: 33.0
+2025-05-18T21:14:47.532471   INFO   Processed transaction for Wine - Puligny Montrachet A.. Applied discounts: 27.0, 5.0, 5.0, 5.0%. Final discount: 16.0%. Final price: 167.32799999999997
+2025-05-18T21:14:47.532527   INFO   Processed transaction for Soup - Clam Chowder Dry Mix. Applied discounts: 15.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 17.5%. Final price: 1310.2155
+2025-05-18T21:14:47.532577   INFO   Processed transaction for Pork - Smoked Kassler. Applied discounts: 22.0, 10.0, 5.0%. Final discount: 16.0%. Final price: 44.352
+2025-05-18T21:14:47.532630   INFO   Processed transaction for Cardamon Ground. Applied discounts: 14.0, 5.0, 5.0%. Final discount: 9.5%. Final price: 319.79985
+2025-05-18T21:14:47.532665   INFO   Processed transaction for Island Oasis - Lemonade. Applied discounts: 26.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 18.0%. Final price: 173.69240000000002
+2025-05-18T21:14:47.532704   INFO   Processed transaction for Coffee Beans - Chocolate. Applied discounts: 25.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 17.5%. Final price: 144.4905
+2025-05-18T21:14:47.532754   INFO   Processed transaction for Glucose. Applied discounts: 16.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 15.5%. Final price: 566.2514
+2025-05-18T21:14:47.532813   INFO   Processed transaction for Beef - Tongue Cooked. Applied discounts: 7.0, 10.0, 5.0, 5.0%. Final discount: 8.5%. Final price: 189.13049999999998
+2025-05-18T21:14:47.532845   INFO   Processed transaction for Table Cloth 62x120 Colour. Applied discounts: 10.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 383.9365
+2025-05-18T21:14:47.532873   INFO   Processed transaction for Gatorade - Orange. Applied discounts: 15.0%. Final discount: 15.0%. Final price: 524.11
+2025-05-18T21:14:47.532909   INFO   Processed transaction for Pasta - Lasagna Dry. Applied discounts: 6.0, 5.0, 5.0%. Final discount: 5.5%. Final price: 534.5581500000001
+2025-05-18T21:14:47.532937   INFO   Processed transaction for Soup - Cream Of Broccoli. Applied discounts: 16.0, 10.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 2117.4929999999995
+2025-05-18T21:14:47.532969   INFO   Processed transaction for Sambuca - Ramazzotti. Applied discounts: 1.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 11.0%. Final price: 1877.9178
+2025-05-18T21:14:47.533028   INFO   Processed transaction for Wine - Kwv Chenin Blanc South. Applied discounts: 11.0, 5.0, 7.0, 5.0, 10.0, 5.0%. Final discount: 10.5%. Final price: 79.38649999999998
+2025-05-18T21:14:47.533137   INFO   Processed transaction for Wine - Manischewitz Concord. Applied discounts: 20.0, 5.0, 5.0, 5.0%. Final discount: 12.5%. Final price: 4.71625
+2025-05-18T21:14:47.533177   INFO   Processed transaction for Cookie Dough - Double. Applied discounts: 14.0, 7.0, 5.0%. Final discount: 10.5%. Final price: 1665.67555
+2025-05-18T21:14:47.533226   INFO   Processed transaction for Beef - Bresaola. Applied discounts: 24.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 17.0%. Final price: 454.62420000000003
+2025-05-18T21:14:47.533254   INFO   Processed transaction for Smoked Paprika. Applied discounts: 21.0, 5.0, 5.0%. Final discount: 13.0%. Final price: 175.9401
+2025-05-18T21:14:47.533282   INFO   Processed transaction for Puree - Blackcurrant. Applied discounts: 15.0, 10.0, 5.0%. Final discount: 12.5%. Final price: 137.55
+2025-05-18T21:14:47.533318   INFO   Processed transaction for Pepper - Chillies Crushed. Applied discounts: 14.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 17.0%. Final price: 1024.1037999999999
+2025-05-18T21:14:47.533347   INFO   Processed transaction for Tea - English Breakfast. Applied discounts: 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 98.124
+2025-05-18T21:14:47.533383   INFO   Processed transaction for Mustard - Individual Pkg. Applied discounts: 19.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 14.5%. Final price: 1189.0998
+2025-05-18T21:14:47.533412   INFO   Processed transaction for Cheese - Goat. Applied discounts: 6.0, 10.0%. Final discount: 8.0%. Final price: 980.03
+2025-05-18T21:14:47.533441   INFO   Processed transaction for Swiss Chard. Applied discounts: %. Final discount: 0.0%. Final price: 242.97
+2025-05-18T21:14:47.533470   INFO   Processed transaction for Juice - Apple 284ml. Applied discounts: 3.0, 10.0, 5.0%. Final discount: 7.5%. Final price: 472.06449999999995
+2025-05-18T21:14:47.533506   INFO   Processed transaction for Dip - Tapenade. Applied discounts: 23.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 19.0%. Final price: 2288.2095000000004
+2025-05-18T21:14:47.533535   INFO   Processed transaction for Horseradish - Prepared. Applied discounts: 12.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 11.0%. Final price: 880.3524000000001
+2025-05-18T21:14:47.533564   INFO   Processed transaction for Bar Mix - Pina Colada 355 Ml. Applied discounts: 15.0, 10.0, 5.0, 15.0, 5.0%. Final discount: 15.0%. Final price: 1101.6
+2025-05-18T21:14:47.533595   INFO   Processed transaction for Wine - White Riesling Semi - Dry. Applied discounts: 13.0, 5.0, 5.0, 5.0%. Final discount: 9.0%. Final price: 93.1112
+2025-05-18T21:14:47.533630   INFO   Processed transaction for Chicken - Leg / Back Attach. Applied discounts: 4.0, 5.0, 5.0, 5.0%. Final discount: 5.0%. Final price: 253.2985
+2025-05-18T21:14:47.533684   INFO   Processed transaction for Radish - Pickled. Applied discounts: 5.0, 10.0, 5.0, 5.0%. Final discount: 7.5%. Final price: 3602.32
+2025-05-18T21:14:47.533720   INFO   Processed transaction for Mushroom - Chantrelle Fresh. Applied discounts: 16.0, 50.0, 5.0, 5.0%. Final discount: 33.0%. Final price: 66.732
+2025-05-18T21:14:47.533766   INFO   Processed transaction for Chicken - White Meat With Tender. Applied discounts: 10.0, 5.0, 5.0, 10.0, 5.0%. Final discount: 10.0%. Final price: 564.651
+2025-05-18T21:14:47.533802   INFO   Processed transaction for Shrimp - Black Tiger 13/15. Applied discounts: 11.0, 10.0, 5.0%. Final discount: 10.5%. Final price: 1543.25745
+2025-05-18T21:14:47.533833   INFO   Processed transaction for Food Colouring - Pink. Applied discounts: 17.0%. Final discount: 17.0%. Final price: 305.04159999999996
+2025-05-18T21:14:47.533862   INFO   Processed transaction for Chicken - Breast 5 - 7 Oz. Applied discounts: 11.0, 10.0, 5.0%. Final discount: 10.5%. Final price: 2581.2247500000003
+2025-05-18T21:14:47.533907   INFO   Processed transaction for Blueberries. Applied discounts: 27.0%. Final discount: 27.0%. Final price: 35.6094
+2025-05-18T21:14:47.533938   INFO   Processed transaction for Wine - Charddonnay Errazuriz. Applied discounts: 28.0, 5.0, 7.0, 5.0, 15.0, 5.0%. Final discount: 21.5%. Final price: 1031.019
+2025-05-18T21:14:47.533968   INFO   Processed transaction for Veal - Round Eye Of. Applied discounts: 5.0, 10.0, 5.0, 20.0, 5.0%. Final discount: 15.0%. Final price: 2985.8035
+2025-05-18T21:14:47.534014   INFO   Processed transaction for Veal - Leg. Applied discounts: 25.0, 5.0, 5.0%. Final discount: 15.0%. Final price: 389.487
+2025-05-18T21:14:47.534045   INFO   Processed transaction for Gin - Gilbeys London Dry. Applied discounts: 21.0, 5.0%. Final discount: 13.0%. Final price: 816.7908
+2025-05-18T21:14:47.534078   INFO   Processed transaction for Creme De Banane - Marie. Applied discounts: 9.0, 5.0, 5.0%. Final discount: 7.0%. Final price: 8.416500000000001
