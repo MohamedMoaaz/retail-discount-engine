@@ -278,7 +278,7 @@ private def appUsageDiscount(transaction: Transaction): Option[Double] = {
   if (transaction.channel.equalsIgnoreCase("app")) {
     val multiples = (transaction.quantity + 4) / 5
     val rawDiscount = multiples * 5.0
-    val maxDiscount = transaction.quantity * transaction.unitPrice * 0.20  // 20% max discount of total price
+    val maxDiscount = transaction.quantity * transaction.unitPrice * 0.20
     Some(math.min(rawDiscount, maxDiscount))
   } else {
     None
