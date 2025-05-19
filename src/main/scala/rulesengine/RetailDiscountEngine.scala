@@ -274,14 +274,16 @@ object RetailDiscountEngine {
    * @param transaction The transaction to evaluate
    * @return Optional discount percentage
    */
-  private def appUsageDiscount(transaction: Transaction): Option[Double] = {
-    if (transaction.channel.equalsIgnoreCase("app")) {
-      val multiples = (transaction.quantity + 4) / 5
-      Some(multiples * 5.0)
-    } else {
-      None
-    }
+private def appUsageDiscount(transaction: Transaction): Option[Double] = {
+  if (transaction.channel.equalsIgnoreCase("app")) {
+    val multiples = (transaction.quantity + 4) / 5
+    val rawDiscount = multiples * 5.0
+    val maxDiscount = transaction.quantity * transaction.unitPrice * 0.20  // 20% max discount of total price
+    Some(math.min(rawDiscount, maxDiscount))
+  } else {
+    None
   }
+}
 
   /**
    * Applies a 5% discount if the payment method is Visa.
